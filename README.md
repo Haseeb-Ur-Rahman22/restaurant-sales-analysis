@@ -88,4 +88,4 @@ SQL Server (SSMS), Power BI, Python (for data generation).
 
 ---
 
-Built by Haseeb Ur Rahman · [Basirah Analytics](https://basirahanalytics.com)
+Built by Haseeb Ur Rahman
