@@ -1,0 +1,33 @@
+menu_item_id,item_name,category,price
+101,Khichdi,Breakfast,80
+102,Khatta,Breakfast,50
+103,Vada,Breakfast,40
+104,Upma,Breakfast,40
+105,Puri,Breakfast,50
+106,Chicken Dum Biryani,Biryani,250
+107,Mutton Dum Biryani,Biryani,350
+108,Veg Biryani,Biryani,180
+109,Egg Biryani,Biryani,200
+110,Prawns Biryani,Biryani,350
+111,Chicken 65,Starters,250
+112,Chilli Chicken,Starters,250
+113,Apollo Fish,Starters,350
+114,Paneer 65,Starters,220
+115,Veg Manchurian,Starters,180
+116,Mutton Shikampur,Starters,300
+117,Haleem,Main Course,250
+118,Nihari,Main Course,300
+119,Bagara Baingan,Main Course,150
+120,Mirchi Ka Salan,Main Course,100
+121,Chicken Curry,Main Course,250
+122,Mutton Rogan Josh,Main Course,350
+123,Dal Makhani,Main Course,180
+124,Double Ka Meetha,Desserts,100
+125,Qubani Ka Meetha,Desserts,120
+126,Kaddu Ki Kheer,Desserts,100
+127,Shahi Tukda,Desserts,120
+128,Irani Chai,Beverages,20
+129,Lassi,Beverages,60
+130,Falooda,Beverages,120
+131,Fresh Lime Soda,Beverages,60
+132,Buttermilk,Beverages,40

@@ -1,0 +1,1001 @@
+order_details_id,order_id,order_date,order_time,item_id,Payment Method,Platform,Branch,Quantity,Order Status
+1,1,24-03-2024,07:26:08 AM,105,online,Swiggy,Attapur,1,complete
+2,1,24-03-2024,07:26:08 AM,129,online,Swiggy,Attapur,3,complete
+3,1,24-03-2024,07:26:08 AM,102,online,Swiggy,Attapur,1,complete
+4,2,13-11-2025,12:49:13 PM,111,online,local,Mehdipatnam,2,complete
+5,2,13-11-2025,12:49:13 PM,106,online,local,Mehdipatnam,2,complete
+6,3,08-04-2025,10:37:28 AM,118,online,Swiggy,Gachibowli,2,complete
+7,3,08-04-2025,10:37:28 AM,106,online,Swiggy,Gachibowli,3,complete
+8,3,08-04-2025,10:37:28 AM,128,online,Swiggy,Gachibowli,1,complete
+9,3,08-04-2025,10:37:28 AM,104,online,Swiggy,Gachibowli,1,complete
+10,4,04-10-2025,04:23:11 PM,115,cash,local,Banjara Hills,2,complete
+11,4,04-10-2025,04:23:11 PM,106,cash,local,Banjara Hills,3,complete
+12,4,04-10-2025,04:23:11 PM,131,cash,local,Banjara Hills,1,complete
+13,5,30-05-2025,01:49:34 PM,110,online,Zomato,Banjara Hills,2,complete
+14,6,09-10-2025,06:20:29 PM,117,online,local,Gachibowli,1,refunded
+15,6,09-10-2025,06:20:29 PM,108,online,local,Gachibowli,2,refunded
+16,6,09-10-2025,06:20:29 PM,113,online,local,Gachibowli,2,refunded
+17,6,09-10-2025,06:20:29 PM,109,online,local,Gachibowli,1,refunded
+18,6,09-10-2025,06:20:29 PM,109,online,local,Gachibowli,1,refunded
+19,6,09-10-2025,06:20:29 PM,123,online,local,Gachibowli,2,refunded
+20,7,16-06-2024,10:37:43 PM,106,online,Zomato,Gachibowli,1,complete
+21,7,16-06-2024,10:37:43 PM,116,online,Zomato,Gachibowli,2,complete
+22,7,16-06-2024,10:37:43 PM,123,online,Zomato,Gachibowli,1,complete
+23,8,18-12-2025,01:03:49 PM,121,online,local,Banjara Hills,2,complete
+24,8,18-12-2025,01:03:49 PM,125,online,local,Banjara Hills,1,complete
+25,8,18-12-2025,01:03:49 PM,111,online,local,Banjara Hills,4,complete
+26,9,29-01-2024,08:33:42 PM,126,online,Swiggy,Gachibowli,2,complete
+27,10,20-04-2024,09:24:33 AM,129,online,Swiggy,Gachibowli,3,complete
+28,10,20-04-2024,09:24:33 AM,131,online,Swiggy,Gachibowli,4,complete
+29,11,29-10-2024,05:28:49 PM,108,online,Zomato,Gachibowli,2,complete
+30,11,29-10-2024,05:28:49 PM,128,online,Zomato,Gachibowli,4,complete
+31,12,04-06-2024,09:20:39 PM,106,online,Zomato,Banjara Hills,3,complete
+32,12,04-06-2024,09:20:39 PM,107,online,Zomato,Banjara Hills,2,complete
+33,12,04-06-2024,09:20:39 PM,107,online,Zomato,Banjara Hills,2,complete
+34,12,04-06-2024,09:20:39 PM,108,online,Zomato,Banjara Hills,1,complete
+35,12,04-06-2024,09:20:39 PM,107,online,Zomato,Banjara Hills,1,complete
+36,13,02-12-2025,08:27:55 PM,128,online,Swiggy,Gachibowli,1,complete
+37,13,02-12-2025,08:27:55 PM,111,online,Swiggy,Gachibowli,2,complete
+38,13,02-12-2025,08:27:55 PM,124,online,Swiggy,Gachibowli,4,complete
+39,14,19-08-2025,09:01:31 PM,127,online,Zomato,Mehdipatnam,1,complete
+40,14,19-08-2025,09:01:31 PM,124,online,Zomato,Mehdipatnam,2,complete
+41,14,19-08-2025,09:01:31 PM,107,online,Zomato,Mehdipatnam,1,complete
+42,14,19-08-2025,09:01:31 PM,115,online,Zomato,Mehdipatnam,1,complete
+43,15,24-02-2025,03:52:02 PM,127,online,Swiggy,Mehdipatnam,1,complete
+44,15,24-02-2025,03:52:02 PM,116,online,Swiggy,Mehdipatnam,1,complete
+45,16,16-12-2024,12:00:26 PM,112,cash,local,Attapur,1,complete
+46,17,24-10-2025,01:49:30 PM,106,online,Swiggy,Banjara Hills,2,complete
+47,17,24-10-2025,01:49:30 PM,114,online,Swiggy,Banjara Hills,1,complete
+48,18,13-02-2025,03:18:09 PM,123,cash,local,Banjara Hills,2,complete
+49,19,31-12-2024,07:39:42 AM,101,online,Zomato,Charminar,2,complete
+50,19,31-12-2024,07:39:42 AM,129,online,Zomato,Charminar,1,complete
+51,19,31-12-2024,07:39:42 AM,101,online,Zomato,Charminar,3,complete
+52,19,31-12-2024,07:39:42 AM,104,online,Zomato,Charminar,2,complete
+53,20,29-08-2024,05:36:24 PM,121,online,Swiggy,Mehdipatnam,3,complete
+54,20,29-08-2024,05:36:24 PM,128,online,Swiggy,Mehdipatnam,2,complete
+55,21,28-03-2024,01:31:09 PM,109,online,Swiggy,Gachibowli,2,complete
+56,21,28-03-2024,01:31:09 PM,121,online,Swiggy,Gachibowli,2,complete
+57,21,28-03-2024,01:31:09 PM,113,online,Swiggy,Gachibowli,1,complete
+58,22,29-10-2024,03:59:39 PM,132,online,Swiggy,Mehdipatnam,1,complete
+59,22,29-10-2024,03:59:39 PM,131,online,Swiggy,Mehdipatnam,3,complete
+60,23,22-12-2025,09:01:05 PM,109,online,Zomato,Gachibowli,3,cancelled
+61,23,22-12-2025,09:01:05 PM,123,online,Zomato,Gachibowli,1,cancelled
+62,23,22-12-2025,09:01:05 PM,131,online,Zomato,Gachibowli,3,cancelled
+63,23,22-12-2025,09:01:05 PM,107,online,Zomato,Gachibowli,1,cancelled
+64,23,22-12-2025,09:01:05 PM,106,online,Zomato,Gachibowli,2,cancelled
+65,23,22-12-2025,09:01:05 PM,128,online,Zomato,Gachibowli,3,cancelled
+66,24,26-09-2024,03:02:29 PM,114,online,local,Mehdipatnam,3,complete
+67,24,26-09-2024,03:02:29 PM,121,online,local,Mehdipatnam,1,complete
+68,24,26-09-2024,03:02:29 PM,128,online,local,Mehdipatnam,1,complete
+69,24,26-09-2024,03:02:29 PM,111,online,local,Mehdipatnam,1,complete
+70,25,15-05-2024,02:54:41 PM,124,online,Swiggy,Banjara Hills,3,complete
+71,25,15-05-2024,02:54:41 PM,111,online,Swiggy,Banjara Hills,1,complete
+72,25,15-05-2024,02:54:41 PM,131,online,Swiggy,Banjara Hills,1,complete
+73,26,05-03-2025,09:22:48 PM,115,online,local,Banjara Hills,3,complete
+74,27,30-11-2024,05:55:15 PM,128,online,Swiggy,Gachibowli,1,complete
+75,27,30-11-2024,05:55:15 PM,112,online,Swiggy,Gachibowli,3,complete
+76,28,25-09-2025,07:42:29 PM,118,online,local,Charminar,1,complete
+77,29,26-07-2025,05:43:14 PM,113,online,local,Charminar,2,complete
+78,30,10-12-2025,10:15:51 PM,123,online,Zomato,Banjara Hills,2,complete
+79,30,10-12-2025,10:15:51 PM,124,online,Zomato,Banjara Hills,3,complete
+80,30,10-12-2025,10:15:51 PM,119,online,Zomato,Banjara Hills,4,complete
+81,31,02-04-2025,02:14:52 PM,122,online,local,Charminar,1,complete
+82,31,02-04-2025,02:14:52 PM,117,online,local,Charminar,1,complete
+83,31,02-04-2025,02:14:52 PM,128,online,local,Charminar,1,complete
+84,32,05-11-2025,08:03:21 PM,128,online,local,Mehdipatnam,1,complete
+85,32,05-11-2025,08:03:21 PM,113,online,local,Mehdipatnam,2,complete
+86,32,05-11-2025,08:03:21 PM,128,online,local,Mehdipatnam,1,complete
+87,32,05-11-2025,08:03:21 PM,125,online,local,Mehdipatnam,1,complete
+88,32,05-11-2025,08:03:21 PM,125,online,local,Mehdipatnam,1,complete
+89,33,11-04-2024,10:58:30 PM,111,online,local,Attapur,1,complete
+90,34,06-04-2025,02:19:04 PM,117,online,local,Mehdipatnam,2,complete
+91,34,06-04-2025,02:19:04 PM,125,online,local,Mehdipatnam,1,complete
+92,35,05-04-2025,08:06:26 PM,113,online,Zomato,Mehdipatnam,1,complete
+93,35,05-04-2025,08:06:26 PM,112,online,Zomato,Mehdipatnam,3,complete
+94,36,28-12-2024,08:16:22 PM,127,cash,local,Charminar,2,complete
+95,37,18-10-2024,05:56:18 PM,128,online,Zomato,Attapur,1,cancelled
+96,38,06-05-2024,08:20:11 PM,106,online,Zomato,Banjara Hills,1,complete
+97,38,06-05-2024,08:20:11 PM,128,online,Zomato,Banjara Hills,5,complete
+98,39,25-05-2024,12:33:02 AM,113,cash,Swiggy,Gachibowli,2,complete
+99,40,30-12-2024,12:33:13 PM,107,cash,local,Gachibowli,2,complete
+100,40,30-12-2024,12:33:13 PM,101,cash,local,Gachibowli,1,complete
+101,40,30-12-2024,12:33:13 PM,106,cash,local,Gachibowli,2,complete
+102,41,29-02-2024,09:09:13 AM,107,online,local,Charminar,2,complete
+103,41,29-02-2024,09:09:13 AM,102,online,local,Charminar,1,complete
+104,42,07-06-2024,01:15:18 PM,115,online,Swiggy,Banjara Hills,1,complete
+105,42,07-06-2024,01:15:18 PM,125,online,Swiggy,Banjara Hills,2,complete
+106,42,07-06-2024,01:15:18 PM,112,online,Swiggy,Banjara Hills,1,complete
+107,42,07-06-2024,01:15:18 PM,115,online,Swiggy,Banjara Hills,2,complete
+108,43,11-11-2025,10:27:50 PM,126,online,Swiggy,Mehdipatnam,2,complete
+109,43,11-11-2025,10:27:50 PM,112,online,Swiggy,Mehdipatnam,1,complete
+110,43,11-11-2025,10:27:50 PM,107,online,Swiggy,Mehdipatnam,1,complete
+111,44,22-02-2025,08:02:38 PM,116,online,Swiggy,Gachibowli,3,complete
+112,45,16-03-2024,10:17:47 PM,114,online,Swiggy,Charminar,1,complete
+113,45,16-03-2024,10:17:47 PM,123,online,Swiggy,Charminar,1,complete
+114,45,16-03-2024,10:17:47 PM,113,online,Swiggy,Charminar,2,complete
+115,45,16-03-2024,10:17:47 PM,112,online,Swiggy,Charminar,1,complete
+116,46,27-07-2024,07:22:42 PM,111,cash,local,Mehdipatnam,2,complete
+117,46,27-07-2024,07:22:42 PM,131,cash,local,Mehdipatnam,1,complete
+118,46,27-07-2024,07:22:42 PM,111,cash,local,Mehdipatnam,2,complete
+119,47,16-07-2025,03:56:36 PM,111,online,Swiggy,Banjara Hills,1,complete
+120,47,16-07-2025,03:56:36 PM,128,online,Swiggy,Banjara Hills,2,complete
+121,48,05-10-2025,10:16:00 PM,123,online,Zomato,Gachibowli,1,complete
+122,49,21-03-2024,02:59:06 PM,126,online,local,Banjara Hills,2,complete
+123,49,21-03-2024,02:59:06 PM,121,online,local,Banjara Hills,1,complete
+124,49,21-03-2024,02:59:06 PM,129,online,local,Banjara Hills,5,complete
+125,50,31-03-2024,04:09:28 PM,108,online,Zomato,Charminar,3,complete
+126,51,25-08-2025,06:43:20 PM,107,cash,local,Banjara Hills,2,complete
+127,52,12-02-2024,12:36:50 PM,106,online,local,Gachibowli,1,complete
+128,53,09-08-2025,07:31:07 PM,106,cash,local,Charminar,4,complete
+129,53,09-08-2025,07:31:07 PM,121,cash,local,Charminar,2,complete
+130,53,09-08-2025,07:31:07 PM,127,cash,local,Charminar,2,complete
+131,54,08-11-2025,09:28:48 PM,128,online,Swiggy,Charminar,4,complete
+132,54,08-11-2025,09:28:48 PM,106,online,Swiggy,Charminar,2,complete
+133,54,08-11-2025,09:28:48 PM,117,online,Swiggy,Charminar,4,complete
+134,55,16-06-2024,12:42:40 PM,111,cash,local,Gachibowli,1,complete
+135,55,16-06-2024,12:42:40 PM,116,cash,local,Gachibowli,2,complete
+136,55,16-06-2024,12:42:40 PM,112,cash,local,Gachibowli,4,complete
+137,56,01-06-2025,10:41:35 AM,105,cash,local,Banjara Hills,3,complete
+138,56,01-06-2025,10:41:35 AM,110,cash,local,Banjara Hills,1,complete
+139,56,01-06-2025,10:41:35 AM,105,cash,local,Banjara Hills,3,complete
+140,57,04-08-2024,05:53:30 PM,112,online,Swiggy,Charminar,2,complete
+141,57,04-08-2024,05:53:30 PM,107,online,Swiggy,Charminar,2,complete
+142,58,10-06-2025,10:22:39 PM,107,online,Zomato,Gachibowli,2,cancelled
+143,58,10-06-2025,10:22:39 PM,128,online,Zomato,Gachibowli,2,cancelled
+144,59,02-03-2025,12:30:11 PM,116,online,Zomato,Charminar,1,complete
+145,60,11-03-2024,03:17:01 PM,117,online,Swiggy,Mehdipatnam,3,complete
+146,61,29-03-2025,03:51:56 PM,117,online,Zomato,Gachibowli,3,cancelled
+147,61,29-03-2025,03:51:56 PM,108,online,Zomato,Gachibowli,1,cancelled
+148,61,29-03-2025,03:51:56 PM,106,online,Zomato,Gachibowli,1,cancelled
+149,62,16-01-2025,06:02:36 PM,128,online,Zomato,Charminar,2,complete
+150,62,16-01-2025,06:02:36 PM,111,online,Zomato,Charminar,3,complete
+151,63,26-10-2024,02:23:59 PM,108,online,Swiggy,Attapur,1,complete
+152,63,26-10-2024,02:23:59 PM,121,online,Swiggy,Attapur,2,complete
+153,64,07-11-2024,06:34:34 PM,107,online,Zomato,Gachibowli,2,complete
+154,64,07-11-2024,06:34:34 PM,128,online,Zomato,Gachibowli,2,complete
+155,64,07-11-2024,06:34:34 PM,125,online,Zomato,Gachibowli,4,complete
+156,65,29-03-2025,01:44:03 PM,129,online,local,Gachibowli,1,complete
+157,65,29-03-2025,01:44:03 PM,114,online,local,Gachibowli,1,complete
+158,66,14-01-2025,08:19:07 AM,128,online,Zomato,Banjara Hills,4,complete
+159,66,14-01-2025,08:19:07 AM,129,online,Zomato,Banjara Hills,1,complete
+160,67,20-04-2024,08:24:58 AM,105,cash,local,Gachibowli,3,complete
+161,67,20-04-2024,08:24:58 AM,128,cash,local,Gachibowli,4,complete
+162,68,04-04-2025,04:27:13 PM,106,cash,local,Attapur,4,complete
+163,69,03-09-2024,07:20:53 AM,111,online,Swiggy,Gachibowli,1,cancelled
+164,70,16-08-2025,09:37:08 AM,103,online,Zomato,Banjara Hills,1,complete
+165,70,16-08-2025,09:37:08 AM,101,online,Zomato,Banjara Hills,2,complete
+166,71,23-08-2025,07:17:35 AM,101,online,Zomato,Gachibowli,2,complete
+167,72,31-08-2024,09:41:32 AM,118,online,Swiggy,Mehdipatnam,5,complete
+168,72,31-08-2024,09:41:32 AM,104,online,Swiggy,Mehdipatnam,5,complete
+169,73,28-06-2025,04:10:35 PM,117,online,Swiggy,Banjara Hills,1,complete
+170,73,28-06-2025,04:10:35 PM,106,online,Swiggy,Banjara Hills,2,complete
+171,73,28-06-2025,04:10:35 PM,111,online,Swiggy,Banjara Hills,2,complete
+172,73,28-06-2025,04:10:35 PM,120,online,Swiggy,Banjara Hills,1,complete
+173,74,22-09-2024,09:46:06 PM,107,online,Swiggy,Gachibowli,2,complete
+174,75,21-01-2024,07:50:47 AM,128,online,Zomato,Banjara Hills,2,complete
+175,76,15-03-2025,09:34:34 PM,111,online,Zomato,Gachibowli,2,complete
+176,77,02-08-2025,09:44:13 PM,111,online,Swiggy,Gachibowli,3,complete
+177,78,02-07-2025,09:15:18 AM,128,online,Swiggy,Gachibowli,1,complete
+178,78,02-07-2025,09:15:18 AM,128,online,Swiggy,Gachibowli,2,complete
+179,78,02-07-2025,09:15:18 AM,128,online,Swiggy,Gachibowli,3,complete
+180,79,11-02-2024,09:02:59 AM,112,online,local,Attapur,3,complete
+181,79,11-02-2024,09:02:59 AM,105,online,local,Attapur,2,complete
+182,80,01-03-2025,02:07:40 PM,126,online,Swiggy,Gachibowli,2,complete
+183,80,01-03-2025,02:07:40 PM,128,online,Swiggy,Gachibowli,4,complete
+184,80,01-03-2025,02:07:40 PM,116,online,Swiggy,Gachibowli,1,complete
+185,81,03-09-2025,07:09:41 AM,130,cash,local,Gachibowli,1,complete
+186,81,03-09-2025,07:09:41 AM,109,cash,local,Gachibowli,1,complete
+187,81,03-09-2025,07:09:41 AM,103,cash,local,Gachibowli,1,complete
+188,82,27-02-2025,01:55:16 AM,112,cash,local,Attapur,3,complete
+189,82,27-02-2025,01:55:16 AM,114,cash,local,Attapur,1,complete
+190,83,12-08-2024,02:04:10 PM,108,online,Zomato,Charminar,1,refunded
+191,83,12-08-2024,02:04:10 PM,118,online,Zomato,Charminar,1,refunded
+192,83,12-08-2024,02:04:10 PM,127,online,Zomato,Charminar,2,refunded
+193,84,03-09-2025,09:34:30 PM,117,online,Zomato,Attapur,1,complete
+194,85,03-07-2025,07:35:47 PM,123,online,Swiggy,Banjara Hills,3,cancelled
+195,86,24-03-2025,12:33:22 PM,115,online,Swiggy,Charminar,4,complete
+196,87,07-06-2024,07:03:47 AM,104,online,Zomato,Gachibowli,4,complete
+197,87,07-06-2024,07:03:47 AM,128,online,Zomato,Gachibowli,1,complete
+198,87,07-06-2024,07:03:47 AM,106,online,Zomato,Gachibowli,1,complete
+199,88,17-08-2025,03:38:09 PM,115,cash,local,Charminar,2,complete
+200,88,17-08-2025,03:38:09 PM,122,cash,local,Charminar,1,complete
+201,89,22-11-2025,08:16:20 AM,105,cash,Zomato,Mehdipatnam,1,complete
+202,90,13-10-2025,07:06:36 AM,105,cash,local,Attapur,1,complete
+203,90,13-10-2025,07:06:36 AM,102,cash,local,Attapur,1,complete
+204,91,03-01-2025,02:03:27 PM,109,online,local,Charminar,1,complete
+205,92,11-08-2025,04:51:28 PM,131,online,local,Attapur,2,complete
+206,92,11-08-2025,04:51:28 PM,129,online,local,Attapur,1,complete
+207,92,11-08-2025,04:51:28 PM,124,online,local,Attapur,1,complete
+208,93,24-07-2025,12:35:31 AM,130,online,local,Charminar,1,complete
+209,93,24-07-2025,12:35:31 AM,127,online,local,Charminar,4,complete
+210,94,26-06-2024,07:28:44 AM,102,online,Zomato,Mehdipatnam,1,cancelled
+211,94,26-06-2024,07:28:44 AM,102,online,Zomato,Mehdipatnam,1,cancelled
+212,95,07-05-2024,08:18:50 PM,129,online,local,Mehdipatnam,3,complete
+213,96,28-05-2024,09:43:00 PM,106,online,Swiggy,Banjara Hills,2,complete
+214,96,28-05-2024,09:43:00 PM,111,online,Swiggy,Banjara Hills,2,complete
+215,97,14-07-2024,08:50:56 PM,122,online,Zomato,Gachibowli,1,complete
+216,97,14-07-2024,08:50:56 PM,120,online,Zomato,Gachibowli,1,complete
+217,98,29-04-2025,09:36:07 PM,126,online,local,Gachibowli,2,complete
+218,99,29-06-2025,08:47:21 PM,107,online,local,Mehdipatnam,3,complete
+219,100,11-09-2025,06:44:07 PM,130,online,local,Gachibowli,1,complete
+220,100,11-09-2025,06:44:07 PM,114,online,local,Gachibowli,3,complete
+221,100,11-09-2025,06:44:07 PM,106,online,local,Gachibowli,1,complete
+222,100,11-09-2025,06:44:07 PM,129,online,local,Gachibowli,2,complete
+223,100,11-09-2025,06:44:07 PM,121,online,local,Gachibowli,2,complete
+224,101,17-06-2025,11:09:10 PM,108,online,Zomato,Gachibowli,1,complete
+225,101,17-06-2025,11:09:10 PM,132,online,Zomato,Gachibowli,3,complete
+226,101,17-06-2025,11:09:10 PM,107,online,Zomato,Gachibowli,1,complete
+227,101,17-06-2025,11:09:10 PM,128,online,Zomato,Gachibowli,5,complete
+228,102,13-02-2025,10:37:29 AM,132,online,local,Charminar,2,complete
+229,102,13-02-2025,10:37:29 AM,105,online,local,Charminar,2,complete
+230,102,13-02-2025,10:37:29 AM,105,online,local,Charminar,1,complete
+231,103,04-03-2025,01:41:34 AM,123,online,local,Gachibowli,3,complete
+232,104,11-11-2025,09:07:24 AM,121,online,Zomato,Charminar,1,complete
+233,104,11-11-2025,09:07:24 AM,128,online,Zomato,Charminar,5,complete
+234,104,11-11-2025,09:07:24 AM,103,online,Zomato,Charminar,1,complete
+235,104,11-11-2025,09:07:24 AM,104,online,Zomato,Charminar,2,complete
+236,104,11-11-2025,09:07:24 AM,103,online,Zomato,Charminar,2,complete
+237,105,02-04-2025,12:39:27 AM,108,online,local,Charminar,2,cancelled
+238,105,02-04-2025,12:39:27 AM,116,online,local,Charminar,3,cancelled
+239,105,02-04-2025,12:39:27 AM,111,online,local,Charminar,2,cancelled
+240,106,31-05-2024,08:26:14 PM,117,online,Swiggy,Banjara Hills,5,complete
+241,106,31-05-2024,08:26:14 PM,112,online,Swiggy,Banjara Hills,2,complete
+242,106,31-05-2024,08:26:14 PM,108,online,Swiggy,Banjara Hills,1,complete
+243,107,12-04-2025,05:08:44 PM,125,online,local,Banjara Hills,1,complete
+244,107,12-04-2025,05:08:44 PM,106,online,local,Banjara Hills,2,complete
+245,108,09-12-2025,02:47:14 PM,124,online,Swiggy,Attapur,4,complete
+246,109,24-06-2024,08:48:44 PM,112,online,Swiggy,Attapur,1,complete
+247,110,14-03-2025,08:37:05 AM,115,cash,local,Charminar,2,complete
+248,110,14-03-2025,08:37:05 AM,101,cash,local,Charminar,4,complete
+249,110,14-03-2025,08:37:05 AM,118,cash,local,Charminar,3,complete
+250,110,14-03-2025,08:37:05 AM,105,cash,local,Charminar,1,complete
+251,111,18-03-2025,12:46:18 PM,109,cash,local,Gachibowli,1,complete
+252,111,18-03-2025,12:46:18 PM,118,cash,local,Gachibowli,3,complete
+253,112,06-03-2025,10:46:44 PM,106,online,Swiggy,Mehdipatnam,1,complete
+254,113,02-06-2025,01:02:11 PM,125,online,Zomato,Gachibowli,1,cancelled
+255,114,25-09-2025,09:59:21 PM,130,online,Zomato,Mehdipatnam,1,complete
+256,114,25-09-2025,09:59:21 PM,118,online,Zomato,Mehdipatnam,1,complete
+257,115,13-07-2025,09:00:52 PM,110,online,Zomato,Mehdipatnam,3,complete
+258,116,15-04-2025,03:58:46 PM,128,cash,local,Charminar,1,complete
+259,116,15-04-2025,03:58:46 PM,117,cash,local,Charminar,2,complete
+260,116,15-04-2025,03:58:46 PM,117,cash,local,Charminar,1,complete
+261,116,15-04-2025,03:58:46 PM,106,cash,local,Charminar,1,complete
+262,117,17-06-2025,08:21:56 PM,106,online,Zomato,Mehdipatnam,3,complete
+263,117,17-06-2025,08:21:56 PM,121,online,Zomato,Mehdipatnam,5,complete
+264,117,17-06-2025,08:21:56 PM,118,online,Zomato,Mehdipatnam,1,complete
+265,118,08-04-2024,08:37:35 PM,107,online,Swiggy,Attapur,2,complete
+266,118,08-04-2024,08:37:35 PM,112,online,Swiggy,Attapur,1,complete
+267,118,08-04-2024,08:37:35 PM,121,online,Swiggy,Attapur,2,complete
+268,119,06-07-2025,12:36:33 PM,109,cash,local,Gachibowli,2,complete
+269,119,06-07-2025,12:36:33 PM,131,cash,local,Gachibowli,2,complete
+270,120,10-08-2024,10:53:05 AM,101,online,Zomato,Gachibowli,1,complete
+271,120,10-08-2024,10:53:05 AM,102,online,Zomato,Gachibowli,2,complete
+272,121,16-09-2025,08:04:35 PM,118,cash,local,Charminar,1,complete
+273,121,16-09-2025,08:04:35 PM,113,cash,local,Charminar,1,complete
+274,122,07-04-2024,08:09:26 PM,121,cash,local,Banjara Hills,1,complete
+275,122,07-04-2024,08:09:26 PM,114,cash,local,Banjara Hills,2,complete
+276,122,07-04-2024,08:09:26 PM,131,cash,local,Banjara Hills,2,complete
+277,123,29-10-2024,09:29:03 PM,111,online,Zomato,Mehdipatnam,1,complete
+278,124,08-10-2024,04:43:59 PM,120,online,Swiggy,Gachibowli,1,complete
+279,124,08-10-2024,04:43:59 PM,129,online,Swiggy,Gachibowli,1,complete
+280,125,22-07-2025,05:42:14 PM,124,cash,local,Mehdipatnam,1,complete
+281,126,06-09-2024,01:26:05 PM,128,online,Zomato,Charminar,1,complete
+282,126,06-09-2024,01:26:05 PM,106,online,Zomato,Charminar,1,complete
+283,127,02-02-2025,12:17:21 AM,111,online,Zomato,Mehdipatnam,4,complete
+284,128,22-08-2025,10:48:49 PM,123,online,local,Attapur,4,refunded
+285,129,12-10-2024,12:33:00 PM,123,online,Swiggy,Mehdipatnam,1,refunded
+286,130,27-10-2025,12:57:20 AM,123,online,Swiggy,Attapur,2,complete
+287,130,27-10-2025,12:57:20 AM,131,online,Swiggy,Attapur,1,complete
+288,131,30-09-2024,10:15:49 PM,127,online,local,Banjara Hills,1,complete
+289,132,11-02-2024,01:17:24 PM,112,online,local,Charminar,2,complete
+290,132,11-02-2024,01:17:24 PM,107,online,local,Charminar,3,complete
+291,132,11-02-2024,01:17:24 PM,106,online,local,Charminar,1,complete
+292,132,11-02-2024,01:17:24 PM,112,online,local,Charminar,1,complete
+293,132,11-02-2024,01:17:24 PM,132,online,local,Charminar,2,complete
+294,133,15-11-2025,03:23:14 PM,111,online,local,Charminar,4,complete
+295,133,15-11-2025,03:23:14 PM,130,online,local,Charminar,1,complete
+296,134,18-04-2025,12:19:00 PM,122,online,Swiggy,Banjara Hills,3,complete
+297,134,18-04-2025,12:19:00 PM,120,online,Swiggy,Banjara Hills,2,complete
+298,135,30-12-2024,10:48:10 AM,101,cash,local,Banjara Hills,1,complete
+299,135,30-12-2024,10:48:10 AM,124,cash,local,Banjara Hills,2,complete
+300,136,01-01-2024,07:01:37 AM,103,online,Zomato,Banjara Hills,1,complete
+301,137,12-04-2025,01:05:24 PM,128,cash,local,Banjara Hills,3,cancelled
+302,137,12-04-2025,01:05:24 PM,113,cash,local,Banjara Hills,2,cancelled
+303,137,12-04-2025,01:05:24 PM,111,cash,local,Banjara Hills,3,cancelled
+304,137,12-04-2025,01:05:24 PM,106,cash,local,Banjara Hills,2,cancelled
+305,137,12-04-2025,01:05:24 PM,117,cash,local,Banjara Hills,2,cancelled
+306,138,11-12-2025,12:44:36 PM,121,online,Swiggy,Gachibowli,1,complete
+307,138,11-12-2025,12:44:36 PM,117,online,Swiggy,Gachibowli,1,complete
+308,139,16-03-2024,01:17:35 PM,128,online,local,Charminar,2,complete
+309,139,16-03-2024,01:17:35 PM,121,online,local,Charminar,2,complete
+310,139,16-03-2024,01:17:35 PM,109,online,local,Charminar,2,complete
+311,140,13-01-2025,08:33:32 PM,106,cash,local,Mehdipatnam,2,complete
+312,141,17-01-2024,01:56:10 PM,110,online,Zomato,Attapur,1,cancelled
+313,141,17-01-2024,01:56:10 PM,107,online,Zomato,Attapur,1,cancelled
+314,142,02-12-2025,05:31:10 PM,124,online,Zomato,Gachibowli,1,complete
+315,142,02-12-2025,05:31:10 PM,119,online,Zomato,Gachibowli,3,complete
+316,143,16-05-2025,06:53:51 PM,128,online,Swiggy,Banjara Hills,4,complete
+317,143,16-05-2025,06:53:51 PM,106,online,Swiggy,Banjara Hills,1,complete
+318,143,16-05-2025,06:53:51 PM,111,online,Swiggy,Banjara Hills,2,complete
+319,143,16-05-2025,06:53:51 PM,112,online,Swiggy,Banjara Hills,1,complete
+320,143,16-05-2025,06:53:51 PM,107,online,Swiggy,Banjara Hills,1,complete
+321,144,22-07-2025,12:21:29 PM,121,online,Zomato,Attapur,2,complete
+322,144,22-07-2025,12:21:29 PM,129,online,Zomato,Attapur,2,complete
+323,145,13-08-2024,08:19:47 PM,128,online,Swiggy,Banjara Hills,2,complete
+324,145,13-08-2024,08:19:47 PM,126,online,Swiggy,Banjara Hills,3,complete
+325,146,03-05-2025,03:19:35 PM,132,cash,local,Gachibowli,3,complete
+326,147,15-12-2025,12:04:35 AM,114,online,Zomato,Charminar,1,complete
+327,148,26-04-2025,05:56:54 PM,131,cash,local,Banjara Hills,3,complete
+328,148,26-04-2025,05:56:54 PM,115,cash,local,Banjara Hills,2,complete
+329,149,05-05-2024,05:38:13 PM,131,online,Zomato,Mehdipatnam,2,complete
+330,149,05-05-2024,05:38:13 PM,132,online,Zomato,Mehdipatnam,2,complete
+331,150,14-08-2024,02:29:23 PM,115,cash,local,Charminar,1,complete
+332,151,10-07-2025,01:14:50 PM,113,cash,local,Attapur,3,complete
+333,151,10-07-2025,01:14:50 PM,116,cash,local,Attapur,1,complete
+334,151,10-07-2025,01:14:50 PM,114,cash,local,Attapur,1,complete
+335,151,10-07-2025,01:14:50 PM,109,cash,local,Attapur,5,complete
+336,152,07-07-2025,01:09:06 PM,108,online,Swiggy,Banjara Hills,1,complete
+337,152,07-07-2025,01:09:06 PM,128,online,Swiggy,Banjara Hills,1,complete
+338,152,07-07-2025,01:09:06 PM,121,online,Swiggy,Banjara Hills,2,complete
+339,152,07-07-2025,01:09:06 PM,112,online,Swiggy,Banjara Hills,1,complete
+340,153,29-11-2025,12:33:54 PM,123,online,local,Banjara Hills,1,complete
+341,154,28-10-2025,09:13:08 AM,103,online,Zomato,Mehdipatnam,1,cancelled
+342,154,28-10-2025,09:13:08 AM,105,online,Zomato,Mehdipatnam,1,cancelled
+343,155,03-08-2025,08:50:28 AM,101,online,local,Charminar,2,complete
+344,156,27-02-2024,10:24:26 AM,103,cash,local,Banjara Hills,2,complete
+345,156,27-02-2024,10:24:26 AM,129,cash,local,Banjara Hills,1,complete
+346,156,27-02-2024,10:24:26 AM,128,cash,local,Banjara Hills,4,complete
+347,157,09-05-2025,03:18:31 PM,107,online,local,Mehdipatnam,1,complete
+348,158,18-05-2025,07:57:50 AM,105,online,Swiggy,Banjara Hills,2,complete
+349,158,18-05-2025,07:57:50 AM,125,online,Swiggy,Banjara Hills,1,complete
+350,158,18-05-2025,07:57:50 AM,101,online,Swiggy,Banjara Hills,1,complete
+351,159,06-12-2024,09:27:25 PM,129,online,Swiggy,Gachibowli,4,complete
+352,159,06-12-2024,09:27:25 PM,131,online,Swiggy,Gachibowli,2,complete
+353,159,06-12-2024,09:27:25 PM,120,online,Swiggy,Gachibowli,2,complete
+354,160,18-11-2024,11:37:30 PM,117,online,Swiggy,Banjara Hills,3,complete
+355,160,18-11-2024,11:37:30 PM,106,online,Swiggy,Banjara Hills,1,complete
+356,160,18-11-2024,11:37:30 PM,111,online,Swiggy,Banjara Hills,1,complete
+357,161,26-02-2025,08:12:07 AM,128,online,Swiggy,Banjara Hills,2,complete
+358,162,12-12-2024,01:00:10 AM,131,online,Swiggy,Charminar,1,complete
+359,162,12-12-2024,01:00:10 AM,118,online,Swiggy,Charminar,4,complete
+360,162,12-12-2024,01:00:10 AM,112,online,Swiggy,Charminar,1,complete
+361,162,12-12-2024,01:00:10 AM,125,online,Swiggy,Charminar,2,complete
+362,163,24-05-2025,03:07:56 PM,131,online,local,Mehdipatnam,1,complete
+363,164,29-07-2024,12:35:06 AM,121,online,Swiggy,Charminar,1,cancelled
+364,165,04-02-2024,07:42:24 AM,129,online,Zomato,Gachibowli,2,complete
+365,165,04-02-2024,07:42:24 AM,103,online,Zomato,Gachibowli,2,complete
+366,166,05-11-2025,02:44:29 PM,111,online,Zomato,Charminar,2,complete
+367,166,05-11-2025,02:44:29 PM,118,online,Zomato,Charminar,2,complete
+368,167,14-07-2024,10:46:37 PM,109,online,Swiggy,Banjara Hills,3,complete
+369,167,14-07-2024,10:46:37 PM,108,online,Swiggy,Banjara Hills,1,complete
+370,167,14-07-2024,10:46:37 PM,128,online,Swiggy,Banjara Hills,1,complete
+371,167,14-07-2024,10:46:37 PM,120,online,Swiggy,Banjara Hills,2,complete
+372,168,01-02-2025,10:29:48 PM,128,online,Zomato,Banjara Hills,1,complete
+373,168,01-02-2025,10:29:48 PM,129,online,Zomato,Banjara Hills,2,complete
+374,168,01-02-2025,10:29:48 PM,111,online,Zomato,Banjara Hills,1,complete
+375,169,09-07-2025,12:38:45 PM,122,cash,local,Charminar,2,complete
+376,170,23-08-2025,12:47:39 PM,111,cash,local,Attapur,2,complete
+377,170,23-08-2025,12:47:39 PM,123,cash,local,Attapur,2,complete
+378,170,23-08-2025,12:47:39 PM,106,cash,local,Attapur,1,complete
+379,170,23-08-2025,12:47:39 PM,119,cash,local,Attapur,2,complete
+380,170,23-08-2025,12:47:39 PM,106,cash,local,Attapur,4,complete
+381,171,05-10-2025,08:44:58 PM,111,online,Zomato,Mehdipatnam,1,complete
+382,172,28-03-2025,11:30:33 PM,113,cash,local,Banjara Hills,4,complete
+383,172,28-03-2025,11:30:33 PM,111,cash,local,Banjara Hills,1,complete
+384,173,20-10-2024,02:56:12 PM,106,online,local,Banjara Hills,3,complete
+385,174,21-11-2025,03:40:23 PM,109,online,Swiggy,Charminar,4,complete
+386,174,21-11-2025,03:40:23 PM,128,online,Swiggy,Charminar,4,complete
+387,174,21-11-2025,03:40:23 PM,120,online,Swiggy,Charminar,2,complete
+388,174,21-11-2025,03:40:23 PM,129,online,Swiggy,Charminar,1,complete
+389,174,21-11-2025,03:40:23 PM,119,online,Swiggy,Charminar,5,complete
+390,175,15-06-2025,07:30:19 PM,128,cash,local,Gachibowli,1,complete
+391,176,06-07-2024,10:18:42 AM,104,online,Zomato,Charminar,4,refunded
+392,177,03-04-2025,01:18:50 PM,114,cash,local,Charminar,4,complete
+393,177,03-04-2025,01:18:50 PM,126,cash,local,Charminar,1,complete
+394,178,04-01-2024,09:31:39 PM,107,online,Swiggy,Gachibowli,5,complete
+395,178,04-01-2024,09:31:39 PM,111,online,Swiggy,Gachibowli,1,complete
+396,178,04-01-2024,09:31:39 PM,111,online,Swiggy,Gachibowli,2,complete
+397,178,04-01-2024,09:31:39 PM,123,online,Swiggy,Gachibowli,2,complete
+398,178,04-01-2024,09:31:39 PM,107,online,Swiggy,Gachibowli,2,complete
+399,178,04-01-2024,09:31:39 PM,111,online,Swiggy,Gachibowli,1,complete
+400,179,02-06-2025,01:42:27 PM,128,online,local,Attapur,2,complete
+401,179,02-06-2025,01:42:27 PM,113,online,local,Attapur,1,complete
+402,179,02-06-2025,01:42:27 PM,122,online,local,Attapur,2,complete
+403,179,02-06-2025,01:42:27 PM,122,online,local,Attapur,3,complete
+404,180,05-12-2024,02:19:11 PM,128,online,Swiggy,Charminar,2,complete
+405,180,05-12-2024,02:19:11 PM,121,online,Swiggy,Charminar,2,complete
+406,180,05-12-2024,02:19:11 PM,116,online,Swiggy,Charminar,3,complete
+407,181,16-04-2024,08:51:58 PM,131,cash,local,Banjara Hills,1,complete
+408,181,16-04-2024,08:51:58 PM,118,cash,local,Banjara Hills,1,complete
+409,181,16-04-2024,08:51:58 PM,124,cash,local,Banjara Hills,2,complete
+410,181,16-04-2024,08:51:58 PM,131,cash,local,Banjara Hills,2,complete
+411,182,06-04-2024,12:28:56 PM,111,online,Swiggy,Banjara Hills,2,complete
+412,182,06-04-2024,12:28:56 PM,114,online,Swiggy,Banjara Hills,2,complete
+413,182,06-04-2024,12:28:56 PM,126,online,Swiggy,Banjara Hills,1,complete
+414,182,06-04-2024,12:28:56 PM,132,online,Swiggy,Banjara Hills,2,complete
+415,183,16-03-2025,04:12:52 PM,121,cash,local,Charminar,1,complete
+416,183,16-03-2025,04:12:52 PM,116,cash,local,Charminar,1,complete
+417,184,17-02-2025,10:06:31 PM,112,online,local,Gachibowli,3,complete
+418,185,22-07-2024,08:00:49 AM,101,online,Swiggy,Banjara Hills,1,complete
+419,185,22-07-2024,08:00:49 AM,101,online,Swiggy,Banjara Hills,1,complete
+420,185,22-07-2024,08:00:49 AM,105,online,Swiggy,Banjara Hills,3,complete
+421,186,16-01-2025,12:00:13 AM,114,online,Swiggy,Attapur,1,complete
+422,186,16-01-2025,12:00:13 AM,111,online,Swiggy,Attapur,2,complete
+423,186,16-01-2025,12:00:13 AM,128,online,Swiggy,Attapur,1,complete
+424,187,19-03-2025,05:01:26 PM,107,cash,local,Banjara Hills,2,complete
+425,187,19-03-2025,05:01:26 PM,112,cash,local,Banjara Hills,3,complete
+426,188,14-11-2024,09:01:56 AM,128,online,Swiggy,Attapur,2,refunded
+427,189,02-11-2025,10:04:49 PM,111,online,Zomato,Charminar,1,complete
+428,189,02-11-2025,10:04:49 PM,128,online,Zomato,Charminar,1,complete
+429,189,02-11-2025,10:04:49 PM,106,online,Zomato,Charminar,1,complete
+430,190,01-07-2024,12:43:13 PM,121,online,Swiggy,Mehdipatnam,3,cancelled
+431,191,22-03-2025,10:17:05 PM,114,cash,local,Attapur,1,complete
+432,191,22-03-2025,10:17:05 PM,123,cash,local,Attapur,1,complete
+433,191,22-03-2025,10:17:05 PM,112,cash,local,Attapur,2,complete
+434,191,22-03-2025,10:17:05 PM,126,cash,local,Attapur,1,complete
+435,191,22-03-2025,10:17:05 PM,111,cash,local,Attapur,1,complete
+436,192,12-04-2025,02:50:29 PM,106,online,local,Charminar,2,complete
+437,193,15-02-2025,10:33:47 PM,123,cash,local,Gachibowli,1,complete
+438,194,09-09-2025,09:30:03 PM,125,online,Swiggy,Attapur,1,complete
+439,194,09-09-2025,09:30:03 PM,124,online,Swiggy,Attapur,2,complete
+440,194,09-09-2025,09:30:03 PM,107,online,Swiggy,Attapur,2,complete
+441,194,09-09-2025,09:30:03 PM,129,online,Swiggy,Attapur,1,complete
+442,195,07-07-2024,07:00:40 PM,106,online,Swiggy,Gachibowli,2,cancelled
+443,196,29-01-2025,09:01:58 PM,109,cash,local,Banjara Hills,2,complete
+444,197,07-01-2025,03:01:24 PM,127,cash,local,Gachibowli,1,complete
+445,197,07-01-2025,03:01:24 PM,111,cash,local,Gachibowli,3,complete
+446,198,12-01-2024,07:29:06 PM,112,cash,local,Mehdipatnam,2,complete
+447,198,12-01-2024,07:29:06 PM,106,cash,local,Mehdipatnam,3,complete
+448,198,12-01-2024,07:29:06 PM,112,cash,local,Mehdipatnam,1,complete
+449,198,12-01-2024,07:29:06 PM,119,cash,local,Mehdipatnam,3,complete
+450,199,07-09-2025,10:59:04 PM,124,online,Swiggy,Gachibowli,1,complete
+451,200,17-12-2024,08:34:16 PM,125,online,Zomato,Attapur,2,complete
+452,201,17-09-2025,08:33:23 PM,117,online,local,Gachibowli,1,refunded
+453,201,17-09-2025,08:33:23 PM,110,online,local,Gachibowli,2,refunded
+454,201,17-09-2025,08:33:23 PM,120,online,local,Gachibowli,1,refunded
+455,202,12-12-2025,05:45:39 PM,126,online,Swiggy,Banjara Hills,2,complete
+456,202,12-12-2025,05:45:39 PM,109,online,Swiggy,Banjara Hills,5,complete
+457,202,12-12-2025,05:45:39 PM,123,online,Swiggy,Banjara Hills,1,complete
+458,202,12-12-2025,05:45:39 PM,109,online,Swiggy,Banjara Hills,1,complete
+459,202,12-12-2025,05:45:39 PM,108,online,Swiggy,Banjara Hills,2,complete
+460,202,12-12-2025,05:45:39 PM,114,online,Swiggy,Banjara Hills,1,complete
+461,203,10-08-2025,03:45:38 PM,121,online,Zomato,Gachibowli,1,complete
+462,203,10-08-2025,03:45:38 PM,112,online,Zomato,Gachibowli,1,complete
+463,204,07-12-2024,08:06:24 PM,122,online,Zomato,Mehdipatnam,1,complete
+464,205,01-03-2024,07:05:28 AM,101,cash,local,Attapur,1,complete
+465,206,30-05-2024,10:33:45 PM,118,cash,local,Attapur,4,complete
+466,207,16-09-2025,10:19:49 PM,111,online,Swiggy,Charminar,2,cancelled
+467,208,05-04-2024,04:56:52 PM,123,online,local,Banjara Hills,1,complete
+468,208,05-04-2024,04:56:52 PM,106,online,local,Banjara Hills,2,complete
+469,208,05-04-2024,04:56:52 PM,128,online,local,Banjara Hills,1,complete
+470,209,07-09-2025,03:44:30 PM,130,online,Zomato,Charminar,1,complete
+471,210,06-02-2025,06:14:01 PM,128,online,local,Mehdipatnam,2,complete
+472,210,06-02-2025,06:14:01 PM,125,online,local,Mehdipatnam,3,complete
+473,211,16-02-2024,05:12:00 PM,132,cash,local,Banjara Hills,3,complete
+474,211,16-02-2024,05:12:00 PM,108,cash,local,Banjara Hills,4,complete
+475,211,16-02-2024,05:12:00 PM,118,cash,local,Banjara Hills,1,complete
+476,212,06-02-2024,09:16:45 AM,101,online,Zomato,Gachibowli,3,cancelled
+477,212,06-02-2024,09:16:45 AM,101,online,Zomato,Gachibowli,4,cancelled
+478,213,24-08-2025,01:26:09 PM,120,online,local,Attapur,1,complete
+479,214,01-11-2024,10:02:11 PM,118,online,Zomato,Attapur,1,complete
+480,214,01-11-2024,10:02:11 PM,124,online,Zomato,Attapur,1,complete
+481,214,01-11-2024,10:02:11 PM,122,online,Zomato,Attapur,2,complete
+482,215,15-08-2025,07:34:18 AM,105,online,local,Banjara Hills,2,complete
+483,215,15-08-2025,07:34:18 AM,104,online,local,Banjara Hills,1,complete
+484,215,15-08-2025,07:34:18 AM,105,online,local,Banjara Hills,1,complete
+485,216,29-06-2025,11:29:18 PM,113,online,Zomato,Attapur,3,cancelled
+486,216,29-06-2025,11:29:18 PM,106,online,Zomato,Attapur,3,cancelled
+487,216,29-06-2025,11:29:18 PM,128,online,Zomato,Attapur,2,cancelled
+488,217,23-04-2025,11:13:16 PM,107,cash,Swiggy,Banjara Hills,2,complete
+489,218,16-11-2025,02:57:34 PM,111,online,Zomato,Attapur,1,complete
+490,219,05-01-2024,10:46:40 AM,117,online,local,Mehdipatnam,1,complete
+491,219,05-01-2024,10:46:40 AM,101,online,local,Mehdipatnam,2,complete
+492,219,05-01-2024,10:46:40 AM,105,online,local,Mehdipatnam,2,complete
+493,219,05-01-2024,10:46:40 AM,128,online,local,Mehdipatnam,2,complete
+494,219,05-01-2024,10:46:40 AM,111,online,local,Mehdipatnam,1,complete
+495,220,10-06-2025,02:04:05 PM,121,online,Zomato,Charminar,1,complete
+496,220,10-06-2025,02:04:05 PM,130,online,Zomato,Charminar,2,complete
+497,221,08-05-2025,06:40:19 PM,107,cash,local,Gachibowli,4,complete
+498,222,16-12-2024,09:15:26 PM,109,online,Swiggy,Gachibowli,3,cancelled
+499,222,16-12-2024,09:15:26 PM,109,online,Swiggy,Gachibowli,2,cancelled
+500,223,09-12-2025,08:43:19 PM,112,online,Swiggy,Charminar,1,complete
+501,223,09-12-2025,08:43:19 PM,107,online,Swiggy,Charminar,2,complete
+502,223,09-12-2025,08:43:19 PM,120,online,Swiggy,Charminar,1,complete
+503,224,30-06-2025,09:25:21 AM,103,cash,local,Charminar,2,complete
+504,224,30-06-2025,09:25:21 AM,111,cash,local,Charminar,2,complete
+505,224,30-06-2025,09:25:21 AM,101,cash,local,Charminar,1,complete
+506,224,30-06-2025,09:25:21 AM,102,cash,local,Charminar,1,complete
+507,224,30-06-2025,09:25:21 AM,128,cash,local,Charminar,2,complete
+508,225,08-11-2024,09:33:51 PM,106,online,local,Gachibowli,5,complete
+509,226,18-03-2025,08:35:33 PM,121,online,Zomato,Banjara Hills,1,complete
+510,226,18-03-2025,08:35:33 PM,108,online,Zomato,Banjara Hills,2,complete
+511,226,18-03-2025,08:35:33 PM,119,online,Zomato,Banjara Hills,1,complete
+512,226,18-03-2025,08:35:33 PM,121,online,Zomato,Banjara Hills,4,complete
+513,226,18-03-2025,08:35:33 PM,106,online,Zomato,Banjara Hills,2,complete
+514,227,14-03-2025,04:47:22 PM,128,online,Swiggy,Charminar,2,complete
+515,228,04-10-2025,04:55:56 PM,125,online,Zomato,Attapur,2,complete
+516,228,04-10-2025,04:55:56 PM,113,online,Zomato,Attapur,2,complete
+517,229,04-02-2024,06:54:32 PM,130,online,local,Mehdipatnam,1,complete
+518,229,04-02-2024,06:54:32 PM,113,online,local,Mehdipatnam,2,complete
+519,230,13-02-2025,01:39:24 PM,130,online,local,Attapur,2,complete
+520,231,23-11-2024,01:44:28 AM,108,online,local,Gachibowli,1,complete
+521,232,13-05-2025,08:40:54 PM,107,online,Swiggy,Attapur,1,complete
+522,232,13-05-2025,08:40:54 PM,121,online,Swiggy,Attapur,1,complete
+523,233,27-09-2024,10:53:19 PM,106,cash,local,Charminar,1,complete
+524,233,27-09-2024,10:53:19 PM,128,cash,local,Charminar,4,complete
+525,233,27-09-2024,10:53:19 PM,131,cash,local,Charminar,3,complete
+526,233,27-09-2024,10:53:19 PM,130,cash,local,Charminar,1,complete
+527,233,27-09-2024,10:53:19 PM,110,cash,local,Charminar,2,complete
+528,234,29-06-2025,12:52:45 PM,122,online,Swiggy,Banjara Hills,1,complete
+529,234,29-06-2025,12:52:45 PM,111,online,Swiggy,Banjara Hills,3,complete
+530,235,03-09-2024,08:33:47 PM,132,cash,local,Charminar,1,complete
+531,235,03-09-2024,08:33:47 PM,130,cash,local,Charminar,1,complete
+532,235,03-09-2024,08:33:47 PM,121,cash,local,Charminar,3,complete
+533,235,03-09-2024,08:33:47 PM,107,cash,local,Charminar,5,complete
+534,235,03-09-2024,08:33:47 PM,128,cash,local,Charminar,1,complete
+535,236,29-04-2025,02:44:52 PM,122,online,Zomato,Banjara Hills,1,complete
+536,236,29-04-2025,02:44:52 PM,117,online,Zomato,Banjara Hills,2,complete
+537,236,29-04-2025,02:44:52 PM,107,online,Zomato,Banjara Hills,1,complete
+538,237,28-01-2024,07:14:46 AM,104,online,Zomato,Mehdipatnam,4,complete
+539,237,28-01-2024,07:14:46 AM,128,online,Zomato,Mehdipatnam,1,complete
+540,238,29-06-2024,10:30:00 PM,128,online,local,Gachibowli,1,complete
+541,238,29-06-2024,10:30:00 PM,128,online,local,Gachibowli,3,complete
+542,238,29-06-2024,10:30:00 PM,122,online,local,Gachibowli,1,complete
+543,239,16-12-2024,08:26:13 AM,118,online,Swiggy,Banjara Hills,5,complete
+544,240,06-09-2024,05:38:08 PM,109,online,local,Mehdipatnam,2,complete
+545,241,29-05-2025,01:39:03 PM,130,online,Swiggy,Banjara Hills,1,complete
+546,241,29-05-2025,01:39:03 PM,116,online,Swiggy,Banjara Hills,1,complete
+547,241,29-05-2025,01:39:03 PM,119,online,Swiggy,Banjara Hills,1,complete
+548,241,29-05-2025,01:39:03 PM,124,online,Swiggy,Banjara Hills,3,complete
+549,242,16-08-2025,08:43:50 PM,116,cash,local,Charminar,2,complete
+550,242,16-08-2025,08:43:50 PM,121,cash,local,Charminar,3,complete
+551,242,16-08-2025,08:43:50 PM,107,cash,local,Charminar,4,complete
+552,243,30-01-2025,10:15:55 PM,131,cash,local,Mehdipatnam,1,complete
+553,244,09-07-2025,06:26:35 PM,126,cash,local,Charminar,1,complete
+554,244,09-07-2025,06:26:35 PM,106,cash,local,Charminar,4,complete
+555,245,22-07-2025,07:29:15 PM,122,online,Zomato,Gachibowli,4,complete
+556,245,22-07-2025,07:29:15 PM,130,online,Zomato,Gachibowli,3,complete
+557,246,07-05-2024,07:57:25 PM,111,online,Zomato,Banjara Hills,3,complete
+558,246,07-05-2024,07:57:25 PM,121,online,Zomato,Banjara Hills,4,complete
+559,246,07-05-2024,07:57:25 PM,106,online,Zomato,Banjara Hills,1,complete
+560,246,07-05-2024,07:57:25 PM,123,online,Zomato,Banjara Hills,2,complete
+561,247,25-02-2025,05:48:39 PM,127,online,local,Mehdipatnam,5,complete
+562,247,25-02-2025,05:48:39 PM,114,online,local,Mehdipatnam,2,complete
+563,248,01-03-2025,07:38:45 PM,124,online,Zomato,Attapur,4,complete
+564,248,01-03-2025,07:38:45 PM,107,online,Zomato,Attapur,1,complete
+565,249,10-06-2025,07:02:12 PM,122,cash,local,Mehdipatnam,1,complete
+566,249,10-06-2025,07:02:12 PM,117,cash,local,Mehdipatnam,1,complete
+567,250,16-09-2024,03:44:08 PM,125,online,Swiggy,Charminar,1,complete
+568,250,16-09-2024,03:44:08 PM,129,online,Swiggy,Charminar,2,complete
+569,251,11-07-2025,12:38:32 PM,112,online,Zomato,Banjara Hills,2,complete
+570,251,11-07-2025,12:38:32 PM,123,online,Zomato,Banjara Hills,2,complete
+571,251,11-07-2025,12:38:32 PM,128,online,Zomato,Banjara Hills,2,complete
+572,252,22-09-2025,02:08:50 PM,112,online,Swiggy,Gachibowli,1,complete
+573,252,22-09-2025,02:08:50 PM,117,online,Swiggy,Gachibowli,1,complete
+574,252,22-09-2025,02:08:50 PM,109,online,Swiggy,Gachibowli,1,complete
+575,252,22-09-2025,02:08:50 PM,128,online,Swiggy,Gachibowli,1,complete
+576,253,21-11-2024,04:09:31 PM,111,online,Swiggy,Charminar,4,refunded
+577,253,21-11-2024,04:09:31 PM,110,online,Swiggy,Charminar,4,refunded
+578,254,23-10-2025,06:20:45 PM,117,online,local,Gachibowli,2,complete
+579,255,10-05-2025,08:08:26 AM,115,online,Swiggy,Mehdipatnam,3,complete
+580,256,17-03-2025,07:24:11 PM,132,online,Zomato,Gachibowli,3,complete
+581,256,17-03-2025,07:24:11 PM,115,online,Zomato,Gachibowli,1,complete
+582,256,17-03-2025,07:24:11 PM,111,online,Zomato,Gachibowli,3,complete
+583,257,20-10-2025,03:58:14 PM,114,online,Zomato,Gachibowli,4,cancelled
+584,257,20-10-2025,03:58:14 PM,107,online,Zomato,Gachibowli,2,cancelled
+585,257,20-10-2025,03:58:14 PM,116,online,Zomato,Gachibowli,2,cancelled
+586,258,19-06-2025,07:07:43 PM,108,cash,local,Charminar,1,complete
+587,259,09-12-2024,03:57:02 PM,106,online,local,Charminar,4,complete
+588,260,17-04-2025,03:53:04 PM,113,online,Swiggy,Attapur,1,complete
+589,260,17-04-2025,03:53:04 PM,106,online,Swiggy,Attapur,2,complete
+590,261,29-09-2024,10:07:09 AM,103,online,Swiggy,Mehdipatnam,1,complete
+591,262,25-10-2025,03:14:56 PM,123,cash,local,Attapur,1,complete
+592,262,25-10-2025,03:14:56 PM,118,cash,local,Attapur,1,complete
+593,262,25-10-2025,03:14:56 PM,107,cash,local,Attapur,4,complete
+594,262,25-10-2025,03:14:56 PM,131,cash,local,Attapur,3,complete
+595,263,08-02-2024,10:46:54 PM,132,online,local,Banjara Hills,2,complete
+596,264,30-12-2024,01:05:14 AM,107,online,Swiggy,Mehdipatnam,1,complete
+597,265,01-09-2025,01:47:22 PM,115,cash,local,Attapur,2,complete
+598,265,01-09-2025,01:47:22 PM,128,cash,local,Attapur,1,complete
+599,265,01-09-2025,01:47:22 PM,129,cash,local,Attapur,1,complete
+600,265,01-09-2025,01:47:22 PM,128,cash,local,Attapur,1,complete
+601,265,01-09-2025,01:47:22 PM,107,cash,local,Attapur,1,complete
+602,266,04-07-2025,07:24:07 PM,130,cash,Swiggy,Attapur,2,complete
+603,267,17-10-2025,03:43:07 PM,106,online,Zomato,Gachibowli,3,complete
+604,268,30-03-2025,09:53:41 PM,109,cash,local,Gachibowli,1,complete
+605,269,15-10-2025,06:17:28 PM,114,online,local,Mehdipatnam,1,complete
+606,270,28-08-2025,01:34:16 PM,123,online,Zomato,Charminar,2,complete
+607,271,18-04-2024,10:07:37 PM,129,online,Swiggy,Gachibowli,3,complete
+608,272,06-03-2025,08:47:05 PM,107,online,Swiggy,Gachibowli,1,complete
+609,273,08-07-2025,12:34:35 PM,129,online,Zomato,Banjara Hills,1,complete
+610,274,07-03-2025,09:30:16 PM,114,online,Swiggy,Gachibowli,2,complete
+611,274,07-03-2025,09:30:16 PM,128,online,Swiggy,Gachibowli,1,complete
+612,275,13-11-2024,09:53:21 PM,132,cash,local,Mehdipatnam,2,complete
+613,275,13-11-2024,09:53:21 PM,121,cash,local,Mehdipatnam,2,complete
+614,275,13-11-2024,09:53:21 PM,112,cash,local,Mehdipatnam,2,complete
+615,276,09-02-2025,08:22:31 PM,115,online,local,Gachibowli,2,complete
+616,276,09-02-2025,08:22:31 PM,132,online,local,Gachibowli,1,complete
+617,277,28-09-2024,01:24:20 PM,123,online,Swiggy,Banjara Hills,1,complete
+618,278,28-05-2025,10:05:13 AM,105,online,Swiggy,Banjara Hills,2,complete
+619,278,28-05-2025,10:05:13 AM,109,online,Swiggy,Banjara Hills,1,complete
+620,279,19-10-2025,01:36:12 AM,122,online,local,Gachibowli,4,complete
+621,279,19-10-2025,01:36:12 AM,111,online,local,Gachibowli,1,complete
+622,279,19-10-2025,01:36:12 AM,117,online,local,Gachibowli,1,complete
+623,279,19-10-2025,01:36:12 AM,109,online,local,Gachibowli,1,complete
+624,280,17-09-2025,02:54:42 PM,131,online,Zomato,Attapur,1,complete
+625,280,17-09-2025,02:54:42 PM,106,online,Zomato,Attapur,1,complete
+626,280,17-09-2025,02:54:42 PM,106,online,Zomato,Attapur,1,complete
+627,280,17-09-2025,02:54:42 PM,112,online,Zomato,Attapur,2,complete
+628,281,19-09-2025,04:07:17 PM,112,cash,local,Mehdipatnam,1,complete
+629,282,17-06-2025,01:36:38 PM,124,online,local,Charminar,1,complete
+630,283,06-10-2024,09:56:31 PM,125,online,Zomato,Mehdipatnam,3,complete
+631,284,23-09-2025,07:13:17 PM,113,online,local,Attapur,2,complete
+632,285,21-09-2024,04:21:10 PM,107,online,Swiggy,Charminar,1,complete
+633,285,21-09-2024,04:21:10 PM,109,online,Swiggy,Charminar,2,complete
+634,286,15-04-2024,05:37:06 PM,105,online,local,Attapur,1,complete
+635,286,15-04-2024,05:37:06 PM,128,online,local,Attapur,2,complete
+636,287,01-10-2024,01:38:42 PM,112,online,Zomato,Gachibowli,1,complete
+637,288,17-10-2025,11:06:35 PM,119,cash,Swiggy,Mehdipatnam,3,complete
+638,288,17-10-2025,11:06:35 PM,107,cash,Swiggy,Mehdipatnam,3,complete
+639,289,07-08-2025,07:26:58 PM,106,online,Swiggy,Gachibowli,1,complete
+640,289,07-08-2025,07:26:58 PM,109,online,Swiggy,Gachibowli,1,complete
+641,290,03-10-2025,07:32:52 AM,109,online,Zomato,Gachibowli,1,complete
+642,291,08-11-2024,07:18:31 AM,125,online,Swiggy,Mehdipatnam,1,complete
+643,291,08-11-2024,07:18:31 AM,104,online,Swiggy,Mehdipatnam,1,complete
+644,291,08-11-2024,07:18:31 AM,101,online,Swiggy,Mehdipatnam,2,complete
+645,291,08-11-2024,07:18:31 AM,120,online,Swiggy,Mehdipatnam,1,complete
+646,292,24-11-2025,11:54:53 PM,121,online,Zomato,Banjara Hills,5,complete
+647,293,20-02-2025,10:21:17 PM,112,online,Swiggy,Gachibowli,1,complete
+648,293,20-02-2025,10:21:17 PM,115,online,Swiggy,Gachibowli,3,complete
+649,293,20-02-2025,10:21:17 PM,112,online,Swiggy,Gachibowli,1,complete
+650,293,20-02-2025,10:21:17 PM,121,online,Swiggy,Gachibowli,1,complete
+651,293,20-02-2025,10:21:17 PM,109,online,Swiggy,Gachibowli,3,complete
+652,294,30-06-2025,10:43:11 PM,125,online,Swiggy,Mehdipatnam,1,complete
+653,295,03-08-2025,07:06:44 AM,104,online,Swiggy,Banjara Hills,2,cancelled
+654,295,03-08-2025,07:06:44 AM,129,online,Swiggy,Banjara Hills,2,cancelled
+655,295,03-08-2025,07:06:44 AM,114,online,Swiggy,Banjara Hills,1,cancelled
+656,295,03-08-2025,07:06:44 AM,128,online,Swiggy,Banjara Hills,3,cancelled
+657,296,01-04-2024,12:02:53 AM,106,cash,local,Mehdipatnam,3,complete
+658,296,01-04-2024,12:02:53 AM,122,cash,local,Mehdipatnam,5,complete
+659,296,01-04-2024,12:02:53 AM,129,cash,local,Mehdipatnam,1,complete
+660,296,01-04-2024,12:02:53 AM,126,cash,local,Mehdipatnam,3,complete
+661,297,11-05-2024,08:36:27 PM,112,cash,local,Charminar,3,complete
+662,297,11-05-2024,08:36:27 PM,114,cash,local,Charminar,2,complete
+663,297,11-05-2024,08:36:27 PM,112,cash,local,Charminar,2,complete
+664,297,11-05-2024,08:36:27 PM,107,cash,local,Charminar,1,complete
+665,297,11-05-2024,08:36:27 PM,111,cash,local,Charminar,1,complete
+666,297,11-05-2024,08:36:27 PM,125,cash,local,Charminar,1,complete
+667,298,24-11-2025,02:51:47 PM,127,online,Swiggy,Banjara Hills,2,complete
+668,298,24-11-2025,02:51:47 PM,112,online,Swiggy,Banjara Hills,1,complete
+669,298,24-11-2025,02:51:47 PM,112,online,Swiggy,Banjara Hills,2,complete
+670,299,25-05-2025,09:48:27 PM,122,online,Zomato,Mehdipatnam,3,complete
+671,299,25-05-2025,09:48:27 PM,111,online,Zomato,Mehdipatnam,1,complete
+672,299,25-05-2025,09:48:27 PM,107,online,Zomato,Mehdipatnam,1,complete
+673,300,23-12-2024,09:50:48 PM,121,online,local,Mehdipatnam,3,complete
+674,300,23-12-2024,09:50:48 PM,128,online,local,Mehdipatnam,2,complete
+675,300,23-12-2024,09:50:48 PM,106,online,local,Mehdipatnam,1,complete
+676,301,01-12-2024,10:46:21 AM,104,cash,local,Charminar,1,complete
+677,301,01-12-2024,10:46:21 AM,105,cash,local,Charminar,3,complete
+678,301,01-12-2024,10:46:21 AM,129,cash,local,Charminar,1,complete
+679,302,05-12-2025,01:10:03 PM,117,online,Swiggy,Gachibowli,2,complete
+680,303,25-05-2024,02:42:26 PM,109,online,Zomato,Banjara Hills,1,cancelled
+681,303,25-05-2024,02:42:26 PM,112,online,Zomato,Banjara Hills,1,cancelled
+682,304,06-08-2025,08:12:47 AM,117,online,Swiggy,Attapur,2,complete
+683,304,06-08-2025,08:12:47 AM,129,online,Swiggy,Attapur,1,complete
+684,305,07-08-2025,01:28:09 AM,118,online,Zomato,Banjara Hills,2,complete
+685,305,07-08-2025,01:28:09 AM,114,online,Zomato,Banjara Hills,3,complete
+686,305,07-08-2025,01:28:09 AM,106,online,Zomato,Banjara Hills,1,complete
+687,305,07-08-2025,01:28:09 AM,118,online,Zomato,Banjara Hills,2,complete
+688,306,24-05-2024,02:20:04 PM,121,online,Zomato,Banjara Hills,1,cancelled
+689,306,24-05-2024,02:20:04 PM,109,online,Zomato,Banjara Hills,2,cancelled
+690,307,09-09-2024,10:35:36 AM,114,cash,Swiggy,Gachibowli,1,complete
+691,307,09-09-2024,10:35:36 AM,104,cash,Swiggy,Gachibowli,1,complete
+692,308,05-11-2024,10:34:44 PM,106,online,Zomato,Banjara Hills,2,complete
+693,308,05-11-2024,10:34:44 PM,112,online,Zomato,Banjara Hills,1,complete
+694,309,01-10-2024,08:25:37 PM,132,online,Swiggy,Banjara Hills,3,complete
+695,310,13-04-2024,08:47:30 PM,123,online,Swiggy,Banjara Hills,1,complete
+696,311,19-07-2025,01:48:42 PM,106,online,Swiggy,Gachibowli,1,complete
+697,311,19-07-2025,01:48:42 PM,107,online,Swiggy,Gachibowli,2,complete
+698,312,13-12-2025,10:06:17 AM,101,online,Zomato,Banjara Hills,1,complete
+699,312,13-12-2025,10:06:17 AM,123,online,Zomato,Banjara Hills,4,complete
+700,313,16-12-2025,10:18:05 PM,118,cash,Swiggy,Banjara Hills,2,complete
+701,314,06-10-2024,02:36:15 PM,118,online,Swiggy,Mehdipatnam,2,cancelled
+702,314,06-10-2024,02:36:15 PM,109,online,Swiggy,Mehdipatnam,2,cancelled
+703,315,18-11-2025,09:22:31 AM,104,online,Swiggy,Banjara Hills,2,complete
+704,315,18-11-2025,09:22:31 AM,102,online,Swiggy,Banjara Hills,1,complete
+705,316,21-04-2024,01:08:25 AM,127,online,local,Attapur,2,complete
+706,317,15-02-2025,05:45:30 PM,122,online,Swiggy,Gachibowli,1,complete
+707,317,15-02-2025,05:45:30 PM,107,online,Swiggy,Gachibowli,1,complete
+708,318,16-01-2025,10:33:13 PM,123,cash,local,Attapur,2,complete
+709,318,16-01-2025,10:33:13 PM,129,cash,local,Attapur,1,complete
+710,318,16-01-2025,10:33:13 PM,132,cash,local,Attapur,1,complete
+711,319,03-03-2025,10:38:36 AM,120,online,local,Gachibowli,1,complete
+712,320,14-09-2025,04:34:59 PM,129,online,Zomato,Mehdipatnam,2,complete
+713,320,14-09-2025,04:34:59 PM,111,online,Zomato,Mehdipatnam,3,complete
+714,320,14-09-2025,04:34:59 PM,130,online,Zomato,Mehdipatnam,1,complete
+715,320,14-09-2025,04:34:59 PM,132,online,Zomato,Mehdipatnam,1,complete
+716,320,14-09-2025,04:34:59 PM,117,online,Zomato,Mehdipatnam,3,complete
+717,321,05-11-2025,05:13:06 PM,132,cash,local,Attapur,1,complete
+718,321,05-11-2025,05:13:06 PM,121,cash,local,Attapur,2,complete
+719,321,05-11-2025,05:13:06 PM,129,cash,local,Attapur,2,complete
+720,321,05-11-2025,05:13:06 PM,106,cash,local,Attapur,1,complete
+721,322,06-04-2024,07:09:18 AM,118,online,Swiggy,Mehdipatnam,3,cancelled
+722,322,06-04-2024,07:09:18 AM,128,online,Swiggy,Mehdipatnam,1,cancelled
+723,323,27-04-2024,07:11:26 PM,108,online,local,Charminar,1,complete
+724,324,19-09-2025,02:45:38 PM,118,online,local,Mehdipatnam,2,complete
+725,324,19-09-2025,02:45:38 PM,124,online,local,Mehdipatnam,2,complete
+726,325,28-05-2025,09:23:01 PM,122,cash,local,Mehdipatnam,1,complete
+727,325,28-05-2025,09:23:01 PM,118,cash,local,Mehdipatnam,1,complete
+728,325,28-05-2025,09:23:01 PM,121,cash,local,Mehdipatnam,2,complete
+729,325,28-05-2025,09:23:01 PM,127,cash,local,Mehdipatnam,1,complete
+730,326,13-05-2025,01:06:03 PM,123,cash,local,Charminar,2,complete
+731,326,13-05-2025,01:06:03 PM,122,cash,local,Charminar,1,complete
+732,326,13-05-2025,01:06:03 PM,107,cash,local,Charminar,1,complete
+733,327,14-03-2025,10:33:51 AM,122,online,Zomato,Banjara Hills,3,complete
+734,327,14-03-2025,10:33:51 AM,103,online,Zomato,Banjara Hills,1,complete
+735,327,14-03-2025,10:33:51 AM,104,online,Zomato,Banjara Hills,3,complete
+736,328,22-06-2025,03:54:54 PM,131,online,Swiggy,Mehdipatnam,4,complete
+737,328,22-06-2025,03:54:54 PM,122,online,Swiggy,Mehdipatnam,2,complete
+738,329,14-04-2025,08:51:21 PM,128,cash,local,Mehdipatnam,2,complete
+739,329,14-04-2025,08:51:21 PM,126,cash,local,Mehdipatnam,1,complete
+740,330,11-12-2025,09:35:53 PM,129,online,Zomato,Banjara Hills,2,complete
+741,331,09-11-2024,02:12:18 PM,119,cash,local,Gachibowli,1,complete
+742,331,09-11-2024,02:12:18 PM,106,cash,local,Gachibowli,1,complete
+743,331,09-11-2024,02:12:18 PM,107,cash,local,Gachibowli,1,complete
+744,332,13-11-2025,03:30:20 PM,107,cash,local,Mehdipatnam,1,complete
+745,333,01-04-2025,12:24:14 PM,119,online,Swiggy,Mehdipatnam,4,complete
+746,333,01-04-2025,12:24:14 PM,128,online,Swiggy,Mehdipatnam,1,complete
+747,333,01-04-2025,12:24:14 PM,125,online,Swiggy,Mehdipatnam,1,complete
+748,334,11-10-2025,09:31:29 AM,118,cash,local,Gachibowli,2,complete
+749,334,11-10-2025,09:31:29 AM,121,cash,local,Gachibowli,1,complete
+750,334,11-10-2025,09:31:29 AM,120,cash,local,Gachibowli,1,complete
+751,334,11-10-2025,09:31:29 AM,101,cash,local,Gachibowli,1,complete
+752,335,11-12-2024,12:09:16 PM,106,cash,local,Banjara Hills,1,complete
+753,336,24-06-2025,01:24:30 AM,112,cash,local,Mehdipatnam,1,complete
+754,336,24-06-2025,01:24:30 AM,112,cash,local,Mehdipatnam,1,complete
+755,337,29-10-2024,09:27:10 PM,117,online,Zomato,Banjara Hills,1,complete
+756,338,19-08-2024,07:46:48 PM,111,online,Swiggy,Banjara Hills,1,complete
+757,338,19-08-2024,07:46:48 PM,128,online,Swiggy,Banjara Hills,1,complete
+758,338,19-08-2024,07:46:48 PM,131,online,Swiggy,Banjara Hills,2,complete
+759,339,21-12-2024,04:11:32 PM,128,online,Zomato,Banjara Hills,3,complete
+760,340,31-01-2024,12:21:27 PM,114,cash,local,Mehdipatnam,2,complete
+761,340,31-01-2024,12:21:27 PM,111,cash,local,Mehdipatnam,5,complete
+762,340,31-01-2024,12:21:27 PM,113,cash,local,Mehdipatnam,2,complete
+763,340,31-01-2024,12:21:27 PM,117,cash,local,Mehdipatnam,3,complete
+764,340,31-01-2024,12:21:27 PM,113,cash,local,Mehdipatnam,1,complete
+765,341,23-11-2024,07:28:44 AM,128,online,Swiggy,Charminar,3,complete
+766,342,23-11-2025,10:01:05 AM,104,cash,local,Mehdipatnam,1,complete
+767,342,23-11-2025,10:01:05 AM,128,cash,local,Mehdipatnam,1,complete
+768,342,23-11-2025,10:01:05 AM,118,cash,local,Mehdipatnam,1,complete
+769,342,23-11-2025,10:01:05 AM,102,cash,local,Mehdipatnam,1,complete
+770,342,23-11-2025,10:01:05 AM,102,cash,local,Mehdipatnam,2,complete
+771,343,03-05-2024,03:19:43 PM,130,online,Swiggy,Banjara Hills,1,complete
+772,343,03-05-2024,03:19:43 PM,107,online,Swiggy,Banjara Hills,2,complete
+773,343,03-05-2024,03:19:43 PM,126,online,Swiggy,Banjara Hills,2,complete
+774,344,12-12-2024,03:19:10 PM,106,online,Swiggy,Charminar,3,complete
+775,344,12-12-2024,03:19:10 PM,115,online,Swiggy,Charminar,1,complete
+776,345,10-05-2024,12:27:22 PM,128,online,Swiggy,Gachibowli,4,refunded
+777,345,10-05-2024,12:27:22 PM,127,online,Swiggy,Gachibowli,3,refunded
+778,345,10-05-2024,12:27:22 PM,111,online,Swiggy,Gachibowli,3,refunded
+779,346,13-05-2025,06:01:30 PM,107,online,Zomato,Gachibowli,3,complete
+780,346,13-05-2025,06:01:30 PM,131,online,Zomato,Gachibowli,1,complete
+781,346,13-05-2025,06:01:30 PM,128,online,Zomato,Gachibowli,2,complete
+782,347,06-02-2025,08:30:31 PM,106,cash,local,Mehdipatnam,2,complete
+783,347,06-02-2025,08:30:31 PM,112,cash,local,Mehdipatnam,2,complete
+784,347,06-02-2025,08:30:31 PM,121,cash,local,Mehdipatnam,2,complete
+785,347,06-02-2025,08:30:31 PM,112,cash,local,Mehdipatnam,3,complete
+786,347,06-02-2025,08:30:31 PM,106,cash,local,Mehdipatnam,3,complete
+787,348,11-05-2025,10:15:06 PM,114,online,Swiggy,Charminar,1,complete
+788,349,24-09-2024,07:18:54 AM,101,online,Zomato,Gachibowli,4,complete
+789,349,24-09-2024,07:18:54 AM,102,online,Zomato,Gachibowli,2,complete
+790,350,07-03-2025,08:45:42 AM,101,cash,local,Mehdipatnam,2,complete
+791,351,18-05-2024,02:28:08 PM,128,online,Zomato,Charminar,1,complete
+792,351,18-05-2024,02:28:08 PM,112,online,Zomato,Charminar,1,complete
+793,352,22-02-2025,07:56:43 AM,129,online,Zomato,Mehdipatnam,1,complete
+794,353,17-07-2025,08:17:42 AM,104,cash,local,Mehdipatnam,2,complete
+795,353,17-07-2025,08:17:42 AM,123,cash,local,Mehdipatnam,2,complete
+796,354,15-11-2025,07:33:12 AM,123,online,local,Mehdipatnam,2,refunded
+797,354,15-11-2025,07:33:12 AM,102,online,local,Mehdipatnam,3,refunded
+798,355,12-10-2024,10:44:13 PM,130,online,local,Banjara Hills,1,complete
+799,355,12-10-2024,10:44:13 PM,127,online,local,Banjara Hills,2,complete
+800,356,19-01-2025,12:22:47 PM,108,online,local,Charminar,2,complete
+801,356,19-01-2025,12:22:47 PM,116,online,local,Charminar,1,complete
+802,357,24-10-2024,12:08:26 AM,106,online,Swiggy,Gachibowli,3,complete
+803,357,24-10-2024,12:08:26 AM,117,online,Swiggy,Gachibowli,3,complete
+804,357,24-10-2024,12:08:26 AM,123,online,Swiggy,Gachibowli,2,complete
+805,358,04-01-2025,03:46:09 PM,109,online,local,Mehdipatnam,2,refunded
+806,358,04-01-2025,03:46:09 PM,132,online,local,Mehdipatnam,1,refunded
+807,358,04-01-2025,03:46:09 PM,114,online,local,Mehdipatnam,1,refunded
+808,359,16-12-2025,07:31:41 PM,107,online,Swiggy,Attapur,2,complete
+809,359,16-12-2025,07:31:41 PM,112,online,Swiggy,Attapur,1,complete
+810,360,23-06-2025,09:27:38 PM,122,cash,local,Banjara Hills,1,complete
+811,360,23-06-2025,09:27:38 PM,119,cash,local,Banjara Hills,1,complete
+812,361,15-07-2025,01:58:39 AM,108,online,local,Gachibowli,1,complete
+813,361,15-07-2025,01:58:39 AM,128,online,local,Gachibowli,3,complete
+814,361,15-07-2025,01:58:39 AM,114,online,local,Gachibowli,5,complete
+815,361,15-07-2025,01:58:39 AM,128,online,local,Gachibowli,3,complete
+816,361,15-07-2025,01:58:39 AM,123,online,local,Gachibowli,5,complete
+817,362,29-09-2025,03:39:29 PM,112,online,Swiggy,Banjara Hills,3,complete
+818,363,20-02-2025,08:42:40 PM,129,cash,Swiggy,Mehdipatnam,3,complete
+819,364,05-03-2024,12:36:49 PM,110,online,local,Gachibowli,2,complete
+820,365,13-06-2025,03:42:04 PM,106,online,Zomato,Attapur,1,complete
+821,365,13-06-2025,03:42:04 PM,106,online,Zomato,Attapur,1,complete
+822,365,13-06-2025,03:42:04 PM,128,online,Zomato,Attapur,1,complete
+823,366,20-10-2024,10:51:02 PM,117,online,Zomato,Mehdipatnam,2,refunded
+824,366,20-10-2024,10:51:02 PM,121,online,Zomato,Mehdipatnam,1,refunded
+825,367,03-10-2025,12:47:54 PM,115,online,Swiggy,Gachibowli,1,complete
+826,367,03-10-2025,12:47:54 PM,118,online,Swiggy,Gachibowli,2,complete
+827,367,03-10-2025,12:47:54 PM,106,online,Swiggy,Gachibowli,4,complete
+828,368,11-09-2025,09:46:22 PM,118,online,Zomato,Banjara Hills,4,complete
+829,368,11-09-2025,09:46:22 PM,123,online,Zomato,Banjara Hills,2,complete
+830,368,11-09-2025,09:46:22 PM,130,online,Zomato,Banjara Hills,3,complete
+831,369,17-11-2025,07:50:39 AM,120,online,Zomato,Charminar,2,complete
+832,370,27-05-2025,03:57:29 PM,113,cash,local,Gachibowli,1,complete
+833,370,27-05-2025,03:57:29 PM,109,cash,local,Gachibowli,1,complete
+834,370,27-05-2025,03:57:29 PM,120,cash,local,Gachibowli,1,complete
+835,370,27-05-2025,03:57:29 PM,115,cash,local,Gachibowli,3,complete
+836,371,05-01-2025,02:18:31 PM,115,online,Swiggy,Gachibowli,2,complete
+837,371,05-01-2025,02:18:31 PM,107,online,Swiggy,Gachibowli,2,complete
+838,371,05-01-2025,02:18:31 PM,115,online,Swiggy,Gachibowli,1,complete
+839,372,19-02-2025,10:48:26 PM,106,online,Swiggy,Banjara Hills,3,complete
+840,373,30-07-2024,10:23:37 PM,106,online,Zomato,Gachibowli,2,complete
+841,373,30-07-2024,10:23:37 PM,111,online,Zomato,Gachibowli,1,complete
+842,374,07-08-2025,08:08:07 PM,124,online,Zomato,Charminar,1,complete
+843,375,27-09-2025,12:53:39 PM,117,cash,local,Gachibowli,1,complete
+844,376,08-04-2024,06:08:05 PM,115,online,local,Mehdipatnam,2,complete
+845,377,29-02-2024,03:08:58 PM,118,cash,local,Charminar,1,complete
+846,377,29-02-2024,03:08:58 PM,123,cash,local,Charminar,2,complete
+847,377,29-02-2024,03:08:58 PM,132,cash,local,Charminar,1,complete
+848,377,29-02-2024,03:08:58 PM,123,cash,local,Charminar,2,complete
+849,377,29-02-2024,03:08:58 PM,106,cash,local,Charminar,1,complete
+850,378,27-06-2025,07:18:01 PM,114,online,local,Attapur,4,complete
+851,378,27-06-2025,07:18:01 PM,129,online,local,Attapur,3,complete
+852,379,13-09-2025,05:08:17 PM,121,online,Swiggy,Attapur,3,complete
+853,379,13-09-2025,05:08:17 PM,129,online,Swiggy,Attapur,1,complete
+854,380,23-06-2025,02:36:58 PM,120,online,Swiggy,Attapur,1,complete
+855,380,23-06-2025,02:36:58 PM,121,online,Swiggy,Attapur,2,complete
+856,380,23-06-2025,02:36:58 PM,108,online,Swiggy,Attapur,3,complete
+857,381,20-09-2025,09:34:10 PM,128,online,Zomato,Gachibowli,1,complete
+858,381,20-09-2025,09:34:10 PM,121,online,Zomato,Gachibowli,1,complete
+859,382,20-07-2025,07:11:05 AM,132,online,Swiggy,Attapur,3,cancelled
+860,382,20-07-2025,07:11:05 AM,105,online,Swiggy,Attapur,2,cancelled
+861,382,20-07-2025,07:11:05 AM,102,online,Swiggy,Attapur,2,cancelled
+862,382,20-07-2025,07:11:05 AM,128,online,Swiggy,Attapur,1,cancelled
+863,382,20-07-2025,07:11:05 AM,106,online,Swiggy,Attapur,1,cancelled
+864,383,02-01-2024,10:10:49 PM,129,online,Swiggy,Mehdipatnam,1,cancelled
+865,383,02-01-2024,10:10:49 PM,129,online,Swiggy,Mehdipatnam,1,cancelled
+866,383,02-01-2024,10:10:49 PM,107,online,Swiggy,Mehdipatnam,3,cancelled
+867,384,31-12-2025,01:51:45 PM,106,online,local,Attapur,2,complete
+868,384,31-12-2025,01:51:45 PM,106,online,local,Attapur,2,complete
+869,385,04-01-2025,07:29:25 PM,106,online,Zomato,Attapur,1,complete
+870,385,04-01-2025,07:29:25 PM,120,online,Zomato,Attapur,2,complete
+871,386,13-08-2024,12:43:49 PM,114,online,Zomato,Banjara Hills,1,complete
+872,386,13-08-2024,12:43:49 PM,117,online,Zomato,Banjara Hills,1,complete
+873,386,13-08-2024,12:43:49 PM,131,online,Zomato,Banjara Hills,1,complete
+874,386,13-08-2024,12:43:49 PM,111,online,Zomato,Banjara Hills,4,complete
+875,386,13-08-2024,12:43:49 PM,107,online,Zomato,Banjara Hills,3,complete
+876,386,13-08-2024,12:43:49 PM,112,online,Zomato,Banjara Hills,1,complete
+877,387,11-10-2025,10:25:34 AM,101,online,Swiggy,Charminar,3,cancelled
+878,387,11-10-2025,10:25:34 AM,128,online,Swiggy,Charminar,1,cancelled
+879,387,11-10-2025,10:25:34 AM,101,online,Swiggy,Charminar,2,cancelled
+880,388,10-08-2024,10:59:19 PM,128,online,local,Banjara Hills,4,complete
+881,388,10-08-2024,10:59:19 PM,115,online,local,Banjara Hills,2,complete
+882,388,10-08-2024,10:59:19 PM,118,online,local,Banjara Hills,1,complete
+883,388,10-08-2024,10:59:19 PM,132,online,local,Banjara Hills,1,complete
+884,388,10-08-2024,10:59:19 PM,129,online,local,Banjara Hills,2,complete
+885,389,14-07-2024,09:51:31 PM,122,online,Zomato,Attapur,1,cancelled
+886,390,05-09-2025,04:42:55 PM,118,online,Swiggy,Gachibowli,1,complete
+887,390,05-09-2025,04:42:55 PM,114,online,Swiggy,Gachibowli,3,complete
+888,390,05-09-2025,04:42:55 PM,115,online,Swiggy,Gachibowli,2,complete
+889,390,05-09-2025,04:42:55 PM,110,online,Swiggy,Gachibowli,1,complete
+890,391,25-02-2025,02:02:09 PM,106,online,Swiggy,Mehdipatnam,3,complete
+891,391,25-02-2025,02:02:09 PM,111,online,Swiggy,Mehdipatnam,1,complete
+892,392,26-02-2025,06:44:41 PM,122,cash,local,Charminar,2,complete
+893,393,16-01-2025,04:04:45 PM,115,online,Zomato,Banjara Hills,2,complete
+894,393,16-01-2025,04:04:45 PM,132,online,Zomato,Banjara Hills,4,complete
+895,394,29-10-2024,12:56:27 AM,125,online,Zomato,Banjara Hills,3,complete
+896,394,29-10-2024,12:56:27 AM,129,online,Zomato,Banjara Hills,1,complete
+897,394,29-10-2024,12:56:27 AM,120,online,Zomato,Banjara Hills,3,complete
+898,395,20-08-2024,12:08:30 AM,106,online,Swiggy,Banjara Hills,1,complete
+899,396,27-11-2025,01:24:05 PM,131,cash,local,Charminar,3,complete
+900,396,27-11-2025,01:24:05 PM,127,cash,local,Charminar,1,complete
+901,397,18-04-2025,01:29:59 AM,117,online,Zomato,Mehdipatnam,1,complete
+902,397,18-04-2025,01:29:59 AM,131,online,Zomato,Mehdipatnam,2,complete
+903,397,18-04-2025,01:29:59 AM,111,online,Zomato,Mehdipatnam,1,complete
+904,397,18-04-2025,01:29:59 AM,106,online,Zomato,Mehdipatnam,1,complete
+905,398,18-07-2024,10:05:00 PM,107,online,Swiggy,Banjara Hills,2,refunded
+906,399,03-04-2024,08:21:27 PM,121,cash,local,Charminar,2,complete
+907,399,03-04-2024,08:21:27 PM,127,cash,local,Charminar,4,complete
+908,400,13-05-2025,06:17:53 PM,107,online,Zomato,Mehdipatnam,1,complete
+909,400,13-05-2025,06:17:53 PM,131,online,Zomato,Mehdipatnam,1,complete
+910,401,31-03-2025,06:03:13 PM,116,online,Zomato,Gachibowli,1,complete
+911,402,20-01-2025,05:38:01 PM,120,cash,local,Banjara Hills,1,complete
+912,402,20-01-2025,05:38:01 PM,120,cash,local,Banjara Hills,2,complete
+913,402,20-01-2025,05:38:01 PM,128,cash,local,Banjara Hills,2,complete
+914,402,20-01-2025,05:38:01 PM,106,cash,local,Banjara Hills,2,complete
+915,403,27-02-2025,01:40:30 PM,117,online,Zomato,Gachibowli,2,complete
+916,403,27-02-2025,01:40:30 PM,132,online,Zomato,Gachibowli,2,complete
+917,403,27-02-2025,01:40:30 PM,124,online,Zomato,Gachibowli,1,complete
+918,404,25-10-2025,03:23:57 PM,106,online,Swiggy,Banjara Hills,2,complete
+919,405,19-08-2024,08:08:00 PM,113,online,Swiggy,Banjara Hills,2,complete
+920,405,19-08-2024,08:08:00 PM,128,online,Swiggy,Banjara Hills,2,complete
+921,405,19-08-2024,08:08:00 PM,120,online,Swiggy,Banjara Hills,4,complete
+922,405,19-08-2024,08:08:00 PM,129,online,Swiggy,Banjara Hills,2,complete
+923,405,19-08-2024,08:08:00 PM,118,online,Swiggy,Banjara Hills,1,complete
+924,405,19-08-2024,08:08:00 PM,115,online,Swiggy,Banjara Hills,2,complete
+925,406,17-11-2025,08:13:00 PM,124,cash,local,Charminar,5,complete
+926,406,17-11-2025,08:13:00 PM,106,cash,local,Charminar,2,complete
+927,406,17-11-2025,08:13:00 PM,121,cash,local,Charminar,2,complete
+928,406,17-11-2025,08:13:00 PM,112,cash,local,Charminar,1,complete
+929,407,03-05-2025,10:19:36 AM,125,online,Swiggy,Attapur,2,complete
+930,408,14-11-2025,01:50:20 AM,123,cash,local,Charminar,1,complete
+931,408,14-11-2025,01:50:20 AM,121,cash,local,Charminar,1,complete
+932,408,14-11-2025,01:50:20 AM,107,cash,local,Charminar,1,complete
+933,408,14-11-2025,01:50:20 AM,128,cash,local,Charminar,3,complete
+934,409,16-12-2025,08:35:16 AM,126,online,Swiggy,Mehdipatnam,1,complete
+935,410,13-09-2025,09:11:11 PM,117,online,Swiggy,Mehdipatnam,3,complete
+936,410,13-09-2025,09:11:11 PM,106,online,Swiggy,Mehdipatnam,2,complete
+937,410,13-09-2025,09:11:11 PM,118,online,Swiggy,Mehdipatnam,1,complete
+938,410,13-09-2025,09:11:11 PM,128,online,Swiggy,Mehdipatnam,1,complete
+939,410,13-09-2025,09:11:11 PM,106,online,Swiggy,Mehdipatnam,1,complete
+940,410,13-09-2025,09:11:11 PM,113,online,Swiggy,Mehdipatnam,2,complete
+941,411,19-07-2025,07:03:52 AM,129,online,Swiggy,Gachibowli,1,complete
+942,411,19-07-2025,07:03:52 AM,104,online,Swiggy,Gachibowli,2,complete
+943,411,19-07-2025,07:03:52 AM,105,online,Swiggy,Gachibowli,1,complete
+944,412,02-06-2025,04:52:21 PM,121,online,Zomato,Mehdipatnam,1,complete
+945,412,02-06-2025,04:52:21 PM,128,online,Zomato,Mehdipatnam,1,complete
+946,412,02-06-2025,04:52:21 PM,130,online,Zomato,Mehdipatnam,2,complete
+947,413,29-10-2024,02:02:00 PM,122,online,Zomato,Charminar,2,complete
+948,414,10-01-2025,07:09:56 PM,114,online,Zomato,Mehdipatnam,1,complete
+949,414,10-01-2025,07:09:56 PM,111,online,Zomato,Mehdipatnam,1,complete
+950,414,10-01-2025,07:09:56 PM,108,online,Zomato,Mehdipatnam,1,complete
+951,414,10-01-2025,07:09:56 PM,129,online,Zomato,Mehdipatnam,2,complete
+952,415,09-08-2025,03:28:27 PM,124,cash,local,Charminar,2,refunded
+953,416,24-12-2024,04:29:02 PM,128,online,Swiggy,Charminar,2,refunded
+954,417,01-11-2024,09:58:42 AM,109,online,local,Gachibowli,1,complete
+955,418,05-03-2025,08:26:38 PM,131,online,Zomato,Attapur,2,complete
+956,418,05-03-2025,08:26:38 PM,111,online,Zomato,Attapur,2,complete
+957,418,05-03-2025,08:26:38 PM,131,online,Zomato,Attapur,1,complete
+958,419,25-05-2025,01:13:55 PM,127,online,Zomato,Banjara Hills,1,complete
+959,420,13-02-2025,03:37:40 PM,123,online,Zomato,Mehdipatnam,1,complete
+960,420,13-02-2025,03:37:40 PM,128,online,Zomato,Mehdipatnam,1,complete
+961,420,13-02-2025,03:37:40 PM,123,online,Zomato,Mehdipatnam,2,complete
+962,420,13-02-2025,03:37:40 PM,120,online,Zomato,Mehdipatnam,1,complete
+963,421,27-02-2025,07:06:27 AM,132,online,Swiggy,Gachibowli,2,complete
+964,421,27-02-2025,07:06:27 AM,102,online,Swiggy,Gachibowli,2,complete
+965,421,27-02-2025,07:06:27 AM,102,online,Swiggy,Gachibowli,2,complete
+966,422,13-06-2025,02:39:49 PM,117,online,Zomato,Gachibowli,2,complete
+967,423,14-03-2025,02:59:05 PM,106,online,Zomato,Banjara Hills,2,complete
+968,424,16-09-2025,10:00:35 AM,130,online,Swiggy,Charminar,1,complete
+969,425,19-07-2025,12:27:07 PM,115,online,Zomato,Mehdipatnam,2,complete
+970,425,19-07-2025,12:27:07 PM,130,online,Zomato,Mehdipatnam,2,complete
+971,426,22-10-2025,03:36:22 PM,106,online,Swiggy,Charminar,3,complete
+972,426,22-10-2025,03:36:22 PM,106,online,Swiggy,Charminar,2,complete
+973,426,22-10-2025,03:36:22 PM,117,online,Swiggy,Charminar,1,complete
+974,427,11-04-2024,06:13:35 PM,120,online,Zomato,Gachibowli,1,refunded
+975,428,30-04-2024,07:10:45 PM,130,online,Zomato,Mehdipatnam,3,complete
+976,428,30-04-2024,07:10:45 PM,110,online,Zomato,Mehdipatnam,2,complete
+977,428,30-04-2024,07:10:45 PM,112,online,Zomato,Mehdipatnam,1,complete
+978,428,30-04-2024,07:10:45 PM,111,online,Zomato,Mehdipatnam,2,complete
+979,429,23-04-2024,07:45:48 AM,118,cash,local,Mehdipatnam,1,complete
+980,430,21-08-2025,12:12:06 AM,106,online,local,Mehdipatnam,1,complete
+981,430,21-08-2025,12:12:06 AM,124,online,local,Mehdipatnam,1,complete
+982,430,21-08-2025,12:12:06 AM,119,online,local,Mehdipatnam,2,complete
+983,431,08-09-2024,08:43:37 PM,124,cash,local,Banjara Hills,2,complete
+984,431,08-09-2024,08:43:37 PM,132,cash,local,Banjara Hills,3,complete
+985,431,08-09-2024,08:43:37 PM,107,cash,local,Banjara Hills,2,complete
+986,431,08-09-2024,08:43:37 PM,112,cash,local,Banjara Hills,2,complete
+987,431,08-09-2024,08:43:37 PM,112,cash,local,Banjara Hills,3,complete
+988,432,21-07-2025,10:22:56 PM,121,online,Zomato,Gachibowli,5,complete
+989,432,21-07-2025,10:22:56 PM,115,online,Zomato,Gachibowli,1,complete
+990,432,21-07-2025,10:22:56 PM,107,online,Zomato,Gachibowli,2,complete
+991,433,15-12-2025,10:05:56 PM,107,online,Swiggy,Banjara Hills,1,complete
+992,433,15-12-2025,10:05:56 PM,108,online,Swiggy,Banjara Hills,1,complete
+993,433,15-12-2025,10:05:56 PM,107,online,Swiggy,Banjara Hills,3,complete
+994,434,14-09-2025,09:30:00 AM,102,cash,local,Charminar,1,complete
+995,434,14-09-2025,09:30:00 AM,102,cash,local,Charminar,5,complete
+996,434,14-09-2025,09:30:00 AM,114,cash,local,Charminar,1,complete
+997,434,14-09-2025,09:30:00 AM,124,cash,local,Charminar,2,complete
+998,435,14-09-2025,09:46:32 PM,107,online,local,Gachibowli,1,complete
+999,436,18-02-2025,03:58:58 PM,118,online,Swiggy,Banjara Hills,1,complete
+1000,437,29-10-2025,03:55:09 PM,108,online,Swiggy,Banjara Hills,3,complete
